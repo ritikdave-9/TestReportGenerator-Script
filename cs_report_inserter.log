@@ -1,0 +1,1753 @@
+2025-10-28 20:24:43,988 - ERROR - Gemini API key not provided. Set GEMINI_API_KEY environment variable or use --api-key
+2025-10-28 20:29:00,372 - INFO - Starting C# report step insertion - Root: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General
+2025-10-28 20:29:00,372 - INFO - Dry run mode: False
+2025-10-28 20:29:00,382 - INFO - Found 1033 C# files
+2025-10-28 20:30:38,412 - INFO - Starting C# report step insertion - Root: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\Billing
+2025-10-28 20:30:38,412 - INFO - Dry run mode: False
+2025-10-28 20:30:38,414 - INFO - Found 19 C# files
+2025-10-28 20:35:26,444 - INFO - Starting C# report step insertion - Root: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\Billing\SWBARAK1671_NoEcoMode_BillingForOneShot_MultiShotJob.cs
+2025-10-28 20:35:26,445 - INFO - Dry run mode: True
+2025-10-28 20:35:26,445 - INFO - Found 0 C# files
+2025-10-28 20:35:26,445 - WARNING - No C# files found!
+2025-10-28 20:35:26,445 - INFO - Script completed successfully
+2025-10-28 20:36:08,338 - INFO - Starting C# report step insertion - Root: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\test_single
+2025-10-28 20:36:08,338 - INFO - Dry run mode: True
+2025-10-28 20:36:08,338 - INFO - Found 1 C# files
+2025-10-28 20:36:08,339 - INFO - Extracting XML summaries from all files...
+2025-10-28 20:36:08,339 - INFO - Extracted 4 XML summaries
+2025-10-28 20:36:08,340 - INFO - Processing file 1/1: SWBARAK1671_NoEcoMode_BillingForOneShot_MultiShotJob.cs
+2025-10-28 20:36:08,340 - INFO - Processing complete: 0 files modified
+2025-10-28 20:36:08,340 - INFO - Script completed successfully
+2025-10-28 20:37:57,076 - INFO - Starting C# report step insertion - Root: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\test_single
+2025-10-28 20:37:57,077 - INFO - Dry run mode: True
+2025-10-28 20:37:57,077 - INFO - Found 1 C# files
+2025-10-28 20:37:57,077 - INFO - Extracting XML summaries from all files...
+2025-10-28 20:37:57,078 - INFO - Extracted 4 XML summaries
+2025-10-28 20:37:57,078 - INFO - Processing file 1/1: SWBARAK1671_NoEcoMode_BillingForOneShot_MultiShotJob.cs
+2025-10-28 20:37:57,079 - INFO - Found main flow method: SWBARAK1671_NoEcoMode_BillingForOneShot_MultiShotJobFullFlow (lines 50-55)
+2025-10-28 20:37:57,565 - WARNING - Gemini API error for method BypassAutomaticCalibrationForceToPrintFromStackerSetAutoSamplingAndDuplicateToFalseAndImportJobs: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-28 20:37:57,565 - INFO - Will insert report step before BypassAutomaticCalibrationForceToPrintFromStackerSetAutoSamplingAndDuplicateToFalseAndImportJobs: Bypass Automatic Calibration Force To Print From Stacker Set Auto Sampling And Duplicate To False And Import Jobs
+2025-10-28 20:37:58,150 - WARNING - Gemini API error for method GoToReadyStateAndEnterStepMode: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-28 20:37:58,150 - INFO - Will insert report step before GoToReadyStateAndEnterStepMode: Go To Ready State And Enter Step Mode
+2025-10-28 20:37:58,340 - WARNING - Gemini API error for method GetNumberOfImpressionsAndSeparationsPexValues: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-28 20:37:58,340 - INFO - Will insert report step before GetNumberOfImpressionsAndSeparationsPexValues: Get Number Of Impressions And Separations Pex Values
+2025-10-28 20:37:58,969 - WARNING - Gemini API error for method PrintJobAndVerifyPexAndCountersValuesForMultiShot: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-28 20:37:58,970 - INFO - Will insert report step before PrintJobAndVerifyPexAndCountersValuesForMultiShot: Print Job And Verify Pex And Counters Values For Multi Shot
+2025-10-28 20:37:59,151 - WARNING - Gemini API error for method PrintJobAndVerifyPexAndCountersValuesForMultiShot: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-28 20:37:59,152 - INFO - Will insert report step before PrintJobAndVerifyPexAndCountersValuesForMultiShot: Print Job And Verify Pex And Counters Values For Multi Shot
+2025-10-28 20:37:59,152 - INFO - Processed method SWBARAK1671_NoEcoMode_BillingForOneShot_MultiShotJobFullFlow: 5 report steps added
+2025-10-28 20:37:59,152 - INFO - [DRY RUN] Would modify C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\test_single\SWBARAK1671_NoEcoMode_BillingForOneShot_MultiShotJob.cs: 5 report steps
+2025-10-28 20:37:59,152 - INFO - Processing complete: 1 files modified
+2025-10-28 20:37:59,152 - INFO - Script completed successfully
+2025-10-28 20:38:19,305 - INFO - Starting C# report step insertion - Root: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\test_single
+2025-10-28 20:38:19,306 - INFO - Dry run mode: True
+2025-10-28 20:38:19,306 - INFO - Found 1 C# files
+2025-10-28 20:38:19,306 - INFO - Extracting XML summaries from all files...
+2025-10-28 20:38:19,307 - INFO - Extracted 4 XML summaries
+2025-10-28 20:38:19,307 - INFO - Processing file 1/1: SWBARAK1671_NoEcoMode_BillingForOneShot_MultiShotJob.cs
+2025-10-28 20:38:19,308 - INFO - Found main flow method: SWBARAK1671_NoEcoMode_BillingForOneShot_MultiShotJobFullFlow (lines 50-55)
+2025-10-28 20:38:19,749 - WARNING - Gemini API error for method BypassAutomaticCalibrationForceToPrintFromStackerSetAutoSamplingAndDuplicateToFalseAndImportJobs: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-28 20:38:19,750 - INFO - Will insert report step before BypassAutomaticCalibrationForceToPrintFromStackerSetAutoSamplingAndDuplicateToFalseAndImportJobs: Bypass Automatic Calibration Force To Print From Stacker Set Auto Sampling And Duplicate To False And Import Jobs
+2025-10-28 20:38:20,231 - WARNING - Gemini API error for method GoToReadyStateAndEnterStepMode: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-28 20:38:20,232 - INFO - Will insert report step before GoToReadyStateAndEnterStepMode: Go To Ready State And Enter Step Mode
+2025-10-28 20:38:20,535 - WARNING - Gemini API error for method GetNumberOfImpressionsAndSeparationsPexValues: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-28 20:38:20,535 - INFO - Will insert report step before GetNumberOfImpressionsAndSeparationsPexValues: Get Number Of Impressions And Separations Pex Values
+2025-10-28 20:38:21,010 - WARNING - Gemini API error for method PrintJobAndVerifyPexAndCountersValuesForMultiShot: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-28 20:38:21,011 - INFO - Will insert report step before PrintJobAndVerifyPexAndCountersValuesForMultiShot: Print Job And Verify Pex And Counters Values For Multi Shot
+2025-10-28 20:38:21,308 - WARNING - Gemini API error for method PrintJobAndVerifyPexAndCountersValuesForMultiShot: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-10-28 20:38:21,309 - INFO - Will insert report step before PrintJobAndVerifyPexAndCountersValuesForMultiShot: Print Job And Verify Pex And Counters Values For Multi Shot
+2025-10-28 20:38:21,309 - INFO - Processed method SWBARAK1671_NoEcoMode_BillingForOneShot_MultiShotJobFullFlow: 5 report steps added
+2025-10-28 20:38:21,309 - INFO - [DRY RUN] Would modify C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\test_single\SWBARAK1671_NoEcoMode_BillingForOneShot_MultiShotJob.cs: 5 report steps
+2025-10-28 20:38:21,309 - INFO - Processing complete: 1 files modified
+2025-10-28 20:38:21,310 - INFO - Script completed successfully
+2025-10-28 20:40:29,544 - INFO - Starting C# report step insertion - Root: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\test_single
+2025-10-28 20:40:29,544 - INFO - Dry run mode: False
+2025-10-28 20:40:29,545 - INFO - Found 1 C# files
+2025-10-28 20:40:29,545 - INFO - Extracting XML summaries from all files...
+2025-10-28 20:40:29,546 - INFO - Extracted 4 XML summaries
+2025-10-28 20:40:29,546 - INFO - Processing file 1/1: SWBARAK1671_NoEcoMode_BillingForOneShot_MultiShotJob.cs
+2025-10-28 20:40:29,546 - INFO - Found main flow method: SWBARAK1671_NoEcoMode_BillingForOneShot_MultiShotJobFullFlow (lines 50-55)
+2025-10-28 20:40:37,526 - INFO - Will insert report step before BypassAutomaticCalibrationForceToPrintFromStackerSetAutoSamplingAndDuplicateToFalseAndImportJobs: Bypass Calibration and Import Jobs
+2025-10-28 20:40:45,435 - INFO - Will insert report step before GoToReadyStateAndEnterStepMode: Set Ready Step Mode
+2025-10-28 20:41:02,355 - INFO - Will insert report step before GetNumberOfImpressionsAndSeparationsPexValues: Get Pex Values
+2025-10-28 20:41:06,356 - INFO - Will insert report step before PrintJobAndVerifyPexAndCountersValuesForMultiShot: Print Job And Verify
+2025-10-28 20:41:11,439 - INFO - Will insert report step before PrintJobAndVerifyPexAndCountersValuesForMultiShot: Print Job And Verify Values
+2025-10-28 20:41:11,440 - INFO - Processed method SWBARAK1671_NoEcoMode_BillingForOneShot_MultiShotJobFullFlow: 5 report steps added
+2025-10-28 20:41:11,441 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\test_single\SWBARAK1671_NoEcoMode_BillingForOneShot_MultiShotJob.cs: 5 report steps added
+2025-10-28 20:41:11,441 - INFO - Processing complete: 1 files modified
+2025-10-28 20:41:11,442 - INFO - Modified files:
+2025-10-28 20:41:11,442 - INFO -   - C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\test_single\SWBARAK1671_NoEcoMode_BillingForOneShot_MultiShotJob.cs
+2025-10-28 20:41:11,442 - INFO - Script completed successfully
+2025-10-28 20:43:07,060 - INFO - Starting C# report step insertion - Root: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\Billing
+2025-10-28 20:43:07,061 - INFO - Dry run mode: False
+2025-10-28 20:43:07,061 - INFO - Found 19 C# files
+2025-10-28 20:43:07,061 - INFO - Extracting XML summaries from all files...
+2025-10-28 20:48:41,377 - INFO - Starting C# report step insertion - Root: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\Billing
+2025-10-28 20:48:41,378 - INFO - Dry run mode: False
+2025-10-28 20:48:41,378 - INFO - Found 19 C# files
+2025-10-28 20:48:41,378 - INFO - Processing file 1/19: Reg_CountersScreen_PressCountersTab.cs
+2025-10-28 20:48:41,379 - INFO - Found main flow method: PressCountersTabFullFlow (lines 80-86)
+2025-10-28 20:48:48,924 - INFO - Will insert report step before DeleteJobsAndImportJobAndBypassAllAutomaticInsertion: Delete And Import Job
+2025-10-28 20:48:56,797 - INFO - Will insert report step before GetCountersBeforePrintFromPEX: Get Counters Before Print
+2025-10-28 20:49:07,848 - INFO - Will insert report step before GoToPressCounterTabAndGetCountersValues: Get Press Counter Values
+2025-10-28 20:49:17,538 - INFO - Will insert report step before GoToReadyAndPrintJobAndVerifyItsPrinted: Go to Ready, Print, and Verify
+2025-10-28 20:49:35,089 - INFO - Will insert report step before GoToPressCountersTabAndVerifyCountersIncreased: Verify Counters Increased
+2025-10-28 20:49:37,885 - INFO - Will insert report step before VerifyCountersAfterPrintInPEX: Verify Printed Job Counters
+2025-10-28 20:49:37,885 - INFO - Processed method PressCountersTabFullFlow: 6 report steps added
+2025-10-28 20:49:37,887 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\Billing\Reg_CountersScreen_PressCountersTab.cs: 6 report steps added
+2025-10-28 20:49:37,887 - INFO - Processing file 2/19: SWBARAK1671_NoEcoMode_BillingForOneShot_MultiShotJob.cs
+2025-10-28 20:49:37,887 - INFO - Found main flow method: SWBARAK1671_NoEcoMode_BillingForOneShot_MultiShotJobFullFlow (lines 50-55)
+2025-10-28 20:51:30,961 - INFO - Starting C# report step insertion - Root: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General
+2025-10-28 20:51:30,962 - INFO - Dry run mode: False
+2025-10-28 20:51:30,972 - INFO - Found 1033 C# files
+2025-10-28 20:51:30,973 - INFO - Processing file 1/1033: GeneralTestTemplate1.cs
+2025-10-28 20:51:30,974 - INFO - Processing file 2/1033: OcbFlagGenericRollback.cs
+2025-10-28 20:51:30,975 - INFO - Processing file 3/1033: AdvancedColorCalibration.cs
+2025-10-28 20:51:31,313 - INFO - Processing file 4/1033: AOP.cs
+2025-10-28 20:51:31,315 - INFO - Processing file 5/1033: Bypasses.cs
+2025-10-28 20:51:31,315 - INFO - Processing file 6/1033: Cloud.cs
+2025-10-28 20:51:31,338 - INFO - Processing file 7/1033: ColorCalibrations.cs
+2025-10-28 20:51:31,343 - INFO - Processing file 8/1033: CRC.cs
+2025-10-28 20:51:31,345 - INFO - Processing file 9/1033: Devices.cs
+2025-10-28 20:51:31,345 - INFO - Processing file 10/1033: E2E.cs
+2025-10-28 20:51:31,350 - INFO - Processing file 11/1033: ExcelAndJsonActions.cs
+2025-10-28 20:51:31,351 - INFO - Processing file 12/1033: GeneralActions.cs
+2025-10-28 20:51:31,354 - INFO - Processing file 13/1033: GeneralDFEActions.cs
+2025-10-28 20:51:31,355 - INFO - Processing file 14/1033: ILP.cs
+2025-10-28 20:51:31,356 - INFO - Processing file 15/1033: ILS.cs
+2025-10-28 20:51:31,357 - INFO - Processing file 16/1033: ILSInspection.cs
+2025-10-28 20:51:31,358 - INFO - Processing file 17/1033: InkAndBids.cs
+2025-10-28 20:51:31,366 - INFO - Found main flow method: VerifyInkFlowDidNotPassInTheLast24Hours (lines 912-932)
+2025-10-28 20:51:31,367 - INFO - Found main flow method: VerifyInkFlowIsNotBypassedInGetReady (lines 965-978)
+2025-10-28 20:51:31,367 - INFO - Found main flow method: VerifyInkFlowTestIsEnabled (lines 985-992)
+2025-10-28 20:51:31,367 - INFO - Found main flow method: VerifyInkFlowTestStatus (lines 1054-1070)
+2025-10-28 20:51:31,367 - INFO - Found main flow method: VerifyCheckBIDTestsResultsWithInkFlow (lines 1087-1095)
+2025-10-28 20:51:31,368 - INFO - Found main flow method: SetLastSuccessfulInkFlowTime (lines 1107-1113)
+2025-10-28 20:57:05,235 - INFO - Starting C# report step insertion - Root: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\Billing
+2025-10-28 20:57:05,235 - INFO - Dry run mode: False
+2025-10-28 20:57:05,236 - INFO - Found 19 C# files
+2025-10-28 20:57:05,236 - INFO - Processing file 1/19: Reg_CountersScreen_PressCountersTab.cs
+2025-10-28 20:57:05,237 - INFO - Found main flow method: PressCountersTabFullFlow (lines 80-92)
+2025-10-28 20:57:40,112 - INFO - Will insert report step before DeleteJobsAndImportJobAndBypassAllAutomaticInsertion: Delete and Import Job
+2025-10-28 20:57:49,567 - INFO - Will insert report step before GetCountersBeforePrintFromPEX: Get Counters Before Print
+2025-10-28 20:57:56,134 - INFO - Will insert report step before GoToPressCounterTabAndGetCountersValues: Get Press Counter Values
+2025-10-28 20:58:06,768 - INFO - Will insert report step before GoToReadyAndPrintJobAndVerifyItsPrinted: Print and Verify Job
+2025-10-28 20:58:12,031 - INFO - Will insert report step before GoToPressCountersTabAndVerifyCountersIncreased: Verify Press Counters Increase
+2025-10-28 20:58:23,028 - INFO - Will insert report step before VerifyCountersAfterPrintInPEX: Verify Counters After Print
+2025-10-28 20:58:23,028 - INFO - Processed method PressCountersTabFullFlow: 6 report steps added
+2025-10-28 20:58:23,029 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\Billing\Reg_CountersScreen_PressCountersTab.cs: 6 report steps added
+2025-10-28 20:58:23,029 - INFO - Processing file 2/19: SWBARAK1671_NoEcoMode_BillingForOneShot_MultiShotJob.cs
+2025-10-28 20:58:23,030 - INFO - Found main flow method: SWBARAK1671_NoEcoMode_BillingForOneShot_MultiShotJobFullFlow (lines 50-55)
+2025-10-28 21:11:06,718 - INFO - Starting C# report step insertion - Root: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\Billing
+2025-10-28 21:11:06,719 - INFO - Dry run mode: False
+2025-10-28 21:11:06,719 - INFO - Found 19 C# files
+2025-10-28 21:11:06,719 - INFO - Processing file 1/19: Reg_CountersScreen_PressCountersTab.cs
+2025-10-28 21:11:06,720 - INFO - Found main flow method: PressCountersTabFullFlow (lines 80-86)
+2025-10-28 21:11:15,039 - INFO - Will insert report step before DeleteJobsAndImportJobAndBypassAllAutomaticInsertion: Delete Jobs and Import Job
+2025-10-28 21:11:22,657 - INFO - Will insert report step before GetCountersBeforePrintFromPEX: Get Counters Before Print
+2025-10-28 21:11:31,883 - INFO - Will insert report step before GoToPressCounterTabAndGetCountersValues: Get Counter Values
+2025-10-28 21:11:55,420 - INFO - Starting C# report step insertion - Root: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\Billing
+2025-10-28 21:11:55,421 - INFO - Dry run mode: False
+2025-10-28 21:11:55,421 - INFO - Found 19 C# files
+2025-10-28 21:11:55,421 - INFO - Processing file 1/19: Reg_CountersScreen_PressCountersTab.cs
+2025-10-28 21:11:55,422 - INFO - Found main flow method: PressCountersTabFullFlow (lines 80-86)
+2025-10-28 21:11:55,423 - INFO - Requesting Gemini rewrite for method PressCountersTabFullFlow (lines 79-87)
+2025-10-28 21:12:04,463 - INFO - Replaced method PressCountersTabFullFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\Billing\Reg_CountersScreen_PressCountersTab.cs
+2025-10-28 21:12:04,464 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\Billing\Reg_CountersScreen_PressCountersTab.cs: 1 methods replaced
+2025-10-28 21:12:04,465 - INFO - Processing file 2/19: SWBARAK1671_NoEcoMode_BillingForOneShot_MultiShotJob.cs
+2025-10-28 21:12:04,465 - INFO - Found main flow method: SWBARAK1671_NoEcoMode_BillingForOneShot_MultiShotJobFullFlow (lines 50-55)
+2025-10-28 21:18:46,864 - INFO - Starting C# report step insertion - Root: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\Cloud\ATP
+2025-10-28 21:18:46,864 - INFO - Dry run mode: False
+2025-10-28 21:18:46,864 - INFO - Found 10 C# files
+2025-10-28 21:18:46,864 - INFO - Processing file 1/10: ATP_CDC_ParametersOnCloud.cs
+2025-10-28 21:18:46,888 - INFO - Found main flow method: ParametersOnCloudFullFlow (lines 44-47)
+2025-10-28 21:18:46,890 - INFO - Requesting Gemini rewrite for method ParametersOnCloudFullFlow (lines 43-48)
+2025-10-28 21:18:56,391 - INFO - Replaced method ParametersOnCloudFullFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\Cloud\ATP\ATP_CDC_ParametersOnCloud.cs
+2025-10-28 21:18:56,392 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\Cloud\ATP\ATP_CDC_ParametersOnCloud.cs: 1 methods replaced
+2025-10-28 21:18:56,392 - INFO - Processing file 2/10: ATP_CDC_PartReplacement.cs
+2025-10-28 21:18:56,410 - INFO - Found main flow method: PartReplacement_FullFlow (lines 62-64)
+2025-10-28 21:21:01,862 - INFO - Starting C# report step insertion - Root: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\Billing
+2025-10-28 21:21:01,862 - INFO - Dry run mode: True
+2025-10-28 21:21:01,863 - INFO - Found 19 C# files
+2025-10-28 21:21:01,863 - INFO - Processing file 1/19: Reg_CountersScreen_PressCountersTab.cs
+2025-10-28 21:21:01,864 - INFO - Found main flow method: PressCountersTabFullFlow (lines 81-93)
+2025-10-28 21:21:01,865 - INFO - Requesting Gemini rewrite for method PressCountersTabFullFlow (lines 80-94)
+2025-10-28 21:21:01,865 - INFO - Requesting Gemini rewrite (attempt 1/3)...
+2025-10-28 21:37:31,592 - ERROR - Gemini API key not provided. Set GEMINI_API_KEY environment variable or use --api-key
+2025-10-28 21:39:37,587 - INFO - Starting C# report step insertion - Root: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP
+2025-10-28 21:39:37,587 - INFO - Dry run mode: False
+2025-10-28 21:39:37,588 - INFO - Found 43 C# files
+2025-10-28 21:39:37,588 - INFO - Processing file 1/43: AOP_PerformanceMonitoring.cs
+2025-10-28 21:39:37,589 - INFO - Found main flow method: AOP_PerformanceMonitoringFullFlow (lines 45-48)
+2025-10-28 21:39:37,590 - INFO - Requesting Gemini rewrite for method AOP_PerformanceMonitoringFullFlow (lines 44-49)
+2025-10-28 21:39:37,590 - INFO - Requesting Gemini rewrite (attempt 1/3)...
+2025-10-28 21:39:48,898 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 21:39:48,898 - INFO - Replaced method AOP_PerformanceMonitoringFullFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\AOP_PerformanceMonitoring.cs
+2025-10-28 21:39:48,899 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\AOP_PerformanceMonitoring.cs: 1 methods replaced
+2025-10-28 21:39:49,900 - INFO - Processing file 2/43: PowerUp SPM Wizard.cs
+2025-10-28 21:39:49,902 - INFO - Found main flow method: SPM_Wizard_Main_Flow (lines 52-57)
+2025-10-28 21:43:30,426 - INFO - Starting C# report step insertion - Root: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP
+2025-10-28 21:43:30,426 - INFO - Dry run mode: False
+2025-10-28 21:43:30,427 - INFO - Found 43 C# files
+2025-10-28 21:43:30,427 - INFO - Processing file 1/43: AOP_PerformanceMonitoring.cs
+2025-10-28 21:43:30,428 - INFO - Found main flow method: AOP_PerformanceMonitoringFullFlow (lines 45-50)
+2025-10-28 21:43:30,428 - INFO - Requesting Gemini rewrite for method AOP_PerformanceMonitoringFullFlow (lines 44-51)
+2025-10-28 21:43:30,428 - INFO - Requesting Gemini rewrite (attempt 1/3)...
+2025-10-28 21:43:57,474 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 21:43:57,474 - INFO - Replaced method AOP_PerformanceMonitoringFullFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\AOP_PerformanceMonitoring.cs
+2025-10-28 21:43:57,475 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\AOP_PerformanceMonitoring.cs: 1 methods replaced
+2025-10-28 21:43:58,475 - INFO - Processing file 2/43: PowerUp SPM Wizard.cs
+2025-10-28 21:43:58,476 - INFO - Found main flow method: SPM_Wizard_Main_Flow (lines 52-57)
+2025-10-28 21:46:32,306 - INFO - Starting C# report step insertion - Root: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP
+2025-10-28 21:46:32,306 - INFO - Dry run mode: False
+2025-10-28 21:46:32,307 - INFO - Found 43 C# files
+2025-10-28 21:46:32,307 - INFO - Processing file 1/43: AOP_PerformanceMonitoring.cs
+2025-10-28 21:46:32,307 - INFO - Found main flow method: AOP_PerformanceMonitoringFullFlow (lines 45-48)
+2025-10-28 21:46:32,308 - INFO - Requesting Gemini rewrite for method AOP_PerformanceMonitoringFullFlow (lines 44-49)
+2025-10-28 21:46:32,308 - INFO - Requesting Gemini rewrite for AOP_PerformanceMonitoringFullFlow (attempt 1/3)...
+2025-10-28 21:46:46,345 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 21:46:46,345 - INFO - Replaced method AOP_PerformanceMonitoringFullFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\AOP_PerformanceMonitoring.cs
+2025-10-28 21:46:46,346 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\AOP_PerformanceMonitoring.cs: 1 methods replaced
+2025-10-28 21:46:47,347 - INFO - Processing file 2/43: PowerUp SPM Wizard.cs
+2025-10-28 21:46:47,347 - INFO - Found main flow method: SPM_Wizard_Main_Flow (lines 52-57)
+2025-10-28 21:48:40,316 - INFO - Starting C# report step insertion - Root: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP
+2025-10-28 21:48:40,317 - INFO - Dry run mode: False
+2025-10-28 21:48:40,317 - INFO - Found 42 C# files
+2025-10-28 21:48:40,318 - INFO - Processing file 1/42: AOP_PerformanceMonitoring.cs
+2025-10-28 21:48:40,318 - INFO - Found main flow method: AOP_PerformanceMonitoringFullFlow (lines 45-48)
+2025-10-28 21:48:40,319 - INFO - Requesting Gemini rewrite for method AOP_PerformanceMonitoringFullFlow (lines 44-49)
+2025-10-28 21:48:40,319 - INFO - Requesting Gemini rewrite for AOP_PerformanceMonitoringFullFlow (attempt 1/3)...
+2025-10-28 21:48:49,647 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 21:48:49,647 - INFO - Replaced method AOP_PerformanceMonitoringFullFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\AOP_PerformanceMonitoring.cs
+2025-10-28 21:48:49,648 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\AOP_PerformanceMonitoring.cs: 1 methods replaced
+2025-10-28 21:48:50,649 - INFO - Processing file 2/42: PowerUp_Air_Drain_Test.cs
+2025-10-28 21:48:50,650 - INFO - Found main flow method: InkWaterSystemMainFlow (lines 47-48)
+2025-10-28 21:53:02,339 - ERROR - Gemini API key not provided. Set GEMINI_API_KEY environment variable or use --api-key
+2025-10-28 21:53:27,497 - INFO - Starting C# report step insertion - Root: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP
+2025-10-28 21:53:27,497 - INFO - Dry run mode: True
+2025-10-28 21:53:27,498 - INFO - Found 42 C# files
+2025-10-28 21:53:27,498 - INFO - Processing file 1/42: AOP_PerformanceMonitoring.cs
+2025-10-28 21:53:27,499 - INFO - Found main flow method: AOP_PerformanceMonitoringFullFlow (lines 45-50)
+2025-10-28 21:53:27,499 - INFO - Requesting Gemini rewrite for method AOP_PerformanceMonitoringFullFlow (lines 44-51)
+2025-10-28 21:53:27,499 - INFO - Requesting Gemini rewrite for AOP_PerformanceMonitoringFullFlow (attempt 1/3)...
+2025-10-28 21:53:51,771 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 21:53:51,772 - INFO - Replaced method AOP_PerformanceMonitoringFullFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\AOP_PerformanceMonitoring.cs
+2025-10-28 21:53:51,772 - INFO - [DRY RUN] Would replace 1 methods in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\AOP_PerformanceMonitoring.cs
+2025-10-28 21:53:52,772 - INFO - Processing file 2/42: PowerUp_Air_Drain_Test.cs
+2025-10-28 21:53:52,773 - INFO - Found main flow method: InkWaterSystemMainFlow (lines 47-48)
+2025-10-28 21:57:20,577 - ERROR - Gemini API key not provided. Set GEMINI_API_KEY environment variable or use --api-key
+2025-10-28 21:57:36,568 - INFO - Starting C# report step insertion - Root: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP
+2025-10-28 21:57:36,568 - INFO - Dry run mode: True
+2025-10-28 21:57:36,569 - INFO - Found 42 C# files
+2025-10-28 21:57:36,569 - INFO - ===== STARTING PROCESSING FILE 1/42: AOP_PerformanceMonitoring.cs =====
+2025-10-28 21:57:36,569 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\AOP_PerformanceMonitoring.cs
+2025-10-28 21:57:36,569 - INFO - STEP 1: Reading file AOP_PerformanceMonitoring.cs
+2025-10-28 21:57:36,569 - INFO - STEP 2: File read successfully - 79 lines
+2025-10-28 21:57:36,570 - INFO - STEP 3: Searching for main flow methods in AOP_PerformanceMonitoring.cs
+2025-10-28 21:57:36,570 - INFO - Found main flow method: AOP_PerformanceMonitoringFullFlow (lines 45-50)
+2025-10-28 21:57:36,570 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 21:57:36,570 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 21:57:36,571 - INFO - STEP 6.1: Requesting Gemini rewrite for method AOP_PerformanceMonitoringFullFlow (lines 44-51)
+2025-10-28 21:57:36,571 - INFO - STEP 6.1: About to call Gemini API for AOP_PerformanceMonitoringFullFlow
+2025-10-28 21:57:36,571 - INFO - Requesting Gemini rewrite for AOP_PerformanceMonitoringFullFlow (attempt 1/3)...
+2025-10-28 21:57:36,571 - INFO - Creating thread for Gemini request - AOP_PerformanceMonitoringFullFlow
+2025-10-28 21:57:36,571 - INFO - Starting thread for Gemini request - AOP_PerformanceMonitoringFullFlow
+2025-10-28 21:57:36,572 - INFO - Starting Gemini API call for AOP_PerformanceMonitoringFullFlow
+2025-10-28 21:57:36,572 - INFO - Waiting for thread completion (60s timeout) - AOP_PerformanceMonitoringFullFlow
+2025-10-28 21:57:54,387 - INFO - Gemini API call completed for AOP_PerformanceMonitoringFullFlow
+2025-10-28 21:57:54,388 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 21:57:54,388 - INFO - STEP 6.1: Gemini API call completed for AOP_PerformanceMonitoringFullFlow
+2025-10-28 21:57:54,388 - INFO - Replaced method AOP_PerformanceMonitoringFullFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\AOP_PerformanceMonitoring.cs
+2025-10-28 21:57:54,389 - INFO - [DRY RUN] Would replace 1 methods in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\AOP_PerformanceMonitoring.cs
+2025-10-28 21:57:54,389 - INFO - File 1 SUCCESSFULLY MODIFIED: AOP_PerformanceMonitoring.cs
+2025-10-28 21:57:54,389 - INFO - Sleeping 1 second before next file...
+2025-10-28 21:57:55,390 - INFO - ===== FINISHED PROCESSING FILE 1/42 =====
+2025-10-28 21:57:55,390 - INFO - ===== STARTING PROCESSING FILE 2/42: PowerUp_Air_Drain_Test.cs =====
+2025-10-28 21:57:55,390 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Air_Drain_Test.cs
+2025-10-28 21:57:55,391 - INFO - STEP 1: Reading file PowerUp_Air_Drain_Test.cs
+2025-10-28 21:57:55,391 - INFO - STEP 2: File read successfully - 78 lines
+2025-10-28 21:57:55,391 - INFO - STEP 3: Searching for main flow methods in PowerUp_Air_Drain_Test.cs
+2025-10-28 21:57:55,392 - INFO - Found main flow method: InkWaterSystemMainFlow (lines 47-48)
+2025-10-28 21:57:55,392 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 21:57:55,392 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:04:03,098 - INFO - Starting C# report step insertion - Root: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP
+2025-10-28 22:04:03,098 - INFO - Dry run mode: True
+2025-10-28 22:04:03,099 - INFO - Found 42 C# files
+2025-10-28 22:04:03,099 - INFO - ===== STARTING PROCESSING FILE 1/42: AOP_PerformanceMonitoring.cs =====
+2025-10-28 22:04:03,099 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\AOP_PerformanceMonitoring.cs
+2025-10-28 22:04:03,099 - INFO - STEP 1: Reading file AOP_PerformanceMonitoring.cs
+2025-10-28 22:04:03,100 - INFO - STEP 2: File read successfully - 79 lines
+2025-10-28 22:04:03,100 - INFO - STEP 3: Searching for main flow methods in AOP_PerformanceMonitoring.cs
+2025-10-28 22:04:03,100 - INFO - Found main flow method: AOP_PerformanceMonitoringFullFlow (lines 45-50)
+2025-10-28 22:04:03,100 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:04:03,100 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:04:03,101 - INFO - STEP 5.1: Searching XML summary for method AOP_PerformanceMonitoringFullFlow
+2025-10-28 22:04:03,101 - INFO - STEP 5.1: XML summary FOUND for AOP_PerformanceMonitoringFullFlow
+2025-10-28 22:04:03,101 - INFO - STEP 6.1: Requesting Gemini rewrite for method AOP_PerformanceMonitoringFullFlow (lines 44-51)
+2025-10-28 22:04:03,101 - INFO - STEP 6.1: About to call Gemini API for AOP_PerformanceMonitoringFullFlow
+2025-10-28 22:04:03,101 - INFO - Requesting Gemini rewrite for AOP_PerformanceMonitoringFullFlow (attempt 1/3)...
+2025-10-28 22:04:03,102 - INFO - Creating thread for Gemini request - AOP_PerformanceMonitoringFullFlow
+2025-10-28 22:04:03,102 - INFO - Starting thread for Gemini request - AOP_PerformanceMonitoringFullFlow
+2025-10-28 22:04:03,102 - INFO - Starting Gemini API call for AOP_PerformanceMonitoringFullFlow
+2025-10-28 22:04:03,102 - INFO - Waiting for thread completion (60s timeout) - AOP_PerformanceMonitoringFullFlow
+2025-10-28 22:04:22,301 - INFO - Gemini API call completed for AOP_PerformanceMonitoringFullFlow
+2025-10-28 22:04:22,302 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:04:22,302 - INFO - STEP 6.1: Gemini API call completed for AOP_PerformanceMonitoringFullFlow
+2025-10-28 22:04:22,302 - INFO - Replaced method AOP_PerformanceMonitoringFullFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\AOP_PerformanceMonitoring.cs
+2025-10-28 22:04:22,302 - INFO - [DRY RUN] Would replace 1 methods in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\AOP_PerformanceMonitoring.cs
+2025-10-28 22:04:22,303 - INFO - File 1 SUCCESSFULLY MODIFIED: AOP_PerformanceMonitoring.cs
+2025-10-28 22:04:22,303 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:04:23,303 - INFO - ===== FINISHED PROCESSING FILE 1/42 =====
+2025-10-28 22:04:23,304 - INFO - ===== STARTING PROCESSING FILE 2/42: PowerUp_Air_Drain_Test.cs =====
+2025-10-28 22:04:23,304 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Air_Drain_Test.cs
+2025-10-28 22:04:23,304 - INFO - STEP 1: Reading file PowerUp_Air_Drain_Test.cs
+2025-10-28 22:04:23,305 - INFO - STEP 2: File read successfully - 78 lines
+2025-10-28 22:04:23,305 - INFO - STEP 3: Searching for main flow methods in PowerUp_Air_Drain_Test.cs
+2025-10-28 22:04:23,306 - INFO - Found main flow method: InkWaterSystemMainFlow (lines 47-48)
+2025-10-28 22:04:23,306 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:04:23,306 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:04:23,306 - INFO - STEP 5.1: Searching XML summary for method InkWaterSystemMainFlow
+2025-10-28 22:04:23,307 - INFO - STEP 5.1: XML summary FOUND for InkWaterSystemMainFlow
+2025-10-28 22:04:23,307 - INFO - STEP 6.1: Requesting Gemini rewrite for method InkWaterSystemMainFlow (lines 46-49)
+2025-10-28 22:04:23,307 - INFO - STEP 6.1: About to call Gemini API for InkWaterSystemMainFlow
+2025-10-28 22:04:23,307 - INFO - Requesting Gemini rewrite for InkWaterSystemMainFlow (attempt 1/3)...
+2025-10-28 22:04:23,307 - INFO - Creating thread for Gemini request - InkWaterSystemMainFlow
+2025-10-28 22:04:23,307 - INFO - Starting thread for Gemini request - InkWaterSystemMainFlow
+2025-10-28 22:04:23,308 - INFO - Starting Gemini API call for InkWaterSystemMainFlow
+2025-10-28 22:04:23,308 - INFO - Waiting for thread completion (60s timeout) - InkWaterSystemMainFlow
+2025-10-28 22:04:49,270 - INFO - Gemini API call completed for InkWaterSystemMainFlow
+2025-10-28 22:04:49,271 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:04:49,271 - INFO - STEP 6.1: Gemini API call completed for InkWaterSystemMainFlow
+2025-10-28 22:04:49,271 - INFO - Replaced method InkWaterSystemMainFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Air_Drain_Test.cs
+2025-10-28 22:04:49,271 - INFO - [DRY RUN] Would replace 1 methods in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Air_Drain_Test.cs
+2025-10-28 22:04:49,271 - INFO - File 2 SUCCESSFULLY MODIFIED: PowerUp_Air_Drain_Test.cs
+2025-10-28 22:04:49,271 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:04:50,272 - INFO - ===== FINISHED PROCESSING FILE 2/42 =====
+2025-10-28 22:04:50,272 - INFO - ===== STARTING PROCESSING FILE 3/42: PowerUp_Auto_Bias_Ready_State.cs =====
+2025-10-28 22:04:50,273 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Auto_Bias_Ready_State.cs
+2025-10-28 22:04:50,273 - INFO - STEP 1: Reading file PowerUp_Auto_Bias_Ready_State.cs
+2025-10-28 22:04:50,274 - INFO - STEP 2: File read successfully - 125 lines
+2025-10-28 22:04:50,274 - INFO - STEP 3: Searching for main flow methods in PowerUp_Auto_Bias_Ready_State.cs
+2025-10-28 22:04:50,274 - INFO - Found main flow method: AutoBiasWizardFullFlow (lines 51-53)
+2025-10-28 22:04:50,275 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:04:50,275 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:04:50,275 - INFO - STEP 5.1: Searching XML summary for method AutoBiasWizardFullFlow
+2025-10-28 22:04:50,275 - INFO - STEP 5.1: XML summary FOUND for AutoBiasWizardFullFlow
+2025-10-28 22:04:50,275 - INFO - STEP 6.1: Requesting Gemini rewrite for method AutoBiasWizardFullFlow (lines 50-54)
+2025-10-28 22:04:50,275 - INFO - STEP 6.1: About to call Gemini API for AutoBiasWizardFullFlow
+2025-10-28 22:04:50,276 - INFO - Requesting Gemini rewrite for AutoBiasWizardFullFlow (attempt 1/3)...
+2025-10-28 22:04:50,276 - INFO - Creating thread for Gemini request - AutoBiasWizardFullFlow
+2025-10-28 22:04:50,276 - INFO - Starting thread for Gemini request - AutoBiasWizardFullFlow
+2025-10-28 22:04:50,276 - INFO - Starting Gemini API call for AutoBiasWizardFullFlow
+2025-10-28 22:04:50,276 - INFO - Waiting for thread completion (60s timeout) - AutoBiasWizardFullFlow
+2025-10-28 22:04:57,380 - INFO - Gemini API call completed for AutoBiasWizardFullFlow
+2025-10-28 22:04:57,381 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:04:57,381 - INFO - STEP 6.1: Gemini API call completed for AutoBiasWizardFullFlow
+2025-10-28 22:04:57,382 - INFO - Replaced method AutoBiasWizardFullFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Auto_Bias_Ready_State.cs
+2025-10-28 22:04:57,382 - INFO - [DRY RUN] Would replace 1 methods in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Auto_Bias_Ready_State.cs
+2025-10-28 22:04:57,382 - INFO - File 3 SUCCESSFULLY MODIFIED: PowerUp_Auto_Bias_Ready_State.cs
+2025-10-28 22:04:57,382 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:04:58,382 - INFO - ===== FINISHED PROCESSING FILE 3/42 =====
+2025-10-28 22:04:58,383 - INFO - ===== STARTING PROCESSING FILE 4/42: PowerUp_Bid_System_Automatic_Test_from_EATP.cs =====
+2025-10-28 22:04:58,383 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Bid_System_Automatic_Test_from_EATP.cs
+2025-10-28 22:04:58,384 - INFO - STEP 1: Reading file PowerUp_Bid_System_Automatic_Test_from_EATP.cs
+2025-10-28 22:04:58,385 - INFO - STEP 2: File read successfully - 167 lines
+2025-10-28 22:04:58,385 - INFO - STEP 3: Searching for main flow methods in PowerUp_Bid_System_Automatic_Test_from_EATP.cs
+2025-10-28 22:04:58,385 - INFO - Found main flow method: BidSystemAutomaticTestEATPMainFlow (lines 60-63)
+2025-10-28 22:04:58,386 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:04:58,386 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:04:58,386 - INFO - STEP 5.1: Searching XML summary for method BidSystemAutomaticTestEATPMainFlow
+2025-10-28 22:04:58,386 - INFO - STEP 5.1: XML summary FOUND for BidSystemAutomaticTestEATPMainFlow
+2025-10-28 22:04:58,386 - INFO - STEP 6.1: Requesting Gemini rewrite for method BidSystemAutomaticTestEATPMainFlow (lines 59-64)
+2025-10-28 22:04:58,387 - INFO - STEP 6.1: About to call Gemini API for BidSystemAutomaticTestEATPMainFlow
+2025-10-28 22:04:58,387 - INFO - Requesting Gemini rewrite for BidSystemAutomaticTestEATPMainFlow (attempt 1/3)...
+2025-10-28 22:04:58,387 - INFO - Creating thread for Gemini request - BidSystemAutomaticTestEATPMainFlow
+2025-10-28 22:04:58,387 - INFO - Starting thread for Gemini request - BidSystemAutomaticTestEATPMainFlow
+2025-10-28 22:04:58,387 - INFO - Starting Gemini API call for BidSystemAutomaticTestEATPMainFlow
+2025-10-28 22:04:58,387 - INFO - Waiting for thread completion (60s timeout) - BidSystemAutomaticTestEATPMainFlow
+2025-10-28 22:05:09,363 - INFO - Gemini API call completed for BidSystemAutomaticTestEATPMainFlow
+2025-10-28 22:05:09,364 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:05:09,364 - INFO - STEP 6.1: Gemini API call completed for BidSystemAutomaticTestEATPMainFlow
+2025-10-28 22:05:09,364 - INFO - Replaced method BidSystemAutomaticTestEATPMainFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Bid_System_Automatic_Test_from_EATP.cs
+2025-10-28 22:05:09,364 - INFO - [DRY RUN] Would replace 1 methods in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Bid_System_Automatic_Test_from_EATP.cs
+2025-10-28 22:05:09,365 - INFO - File 4 SUCCESSFULLY MODIFIED: PowerUp_Bid_System_Automatic_Test_from_EATP.cs
+2025-10-28 22:05:09,365 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:05:10,365 - INFO - ===== FINISHED PROCESSING FILE 4/42 =====
+2025-10-28 22:05:10,366 - INFO - ===== STARTING PROCESSING FILE 5/42: PowerUp_Blowers_Element_Activation.cs =====
+2025-10-28 22:05:10,366 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Blowers_Element_Activation.cs
+2025-10-28 22:05:10,366 - INFO - STEP 1: Reading file PowerUp_Blowers_Element_Activation.cs
+2025-10-28 22:05:10,367 - INFO - STEP 2: File read successfully - 232 lines
+2025-10-28 22:05:10,368 - INFO - STEP 3: Searching for main flow methods in PowerUp_Blowers_Element_Activation.cs
+2025-10-28 22:05:10,368 - INFO - Found main flow method: BlowersElementActivationMainFlow (lines 60-66)
+2025-10-28 22:05:10,368 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:05:10,369 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:05:10,369 - INFO - STEP 5.1: Searching XML summary for method BlowersElementActivationMainFlow
+2025-10-28 22:05:10,370 - INFO - STEP 5.1: XML summary FOUND for BlowersElementActivationMainFlow
+2025-10-28 22:05:10,370 - INFO - STEP 6.1: Requesting Gemini rewrite for method BlowersElementActivationMainFlow (lines 59-67)
+2025-10-28 22:05:10,370 - INFO - STEP 6.1: About to call Gemini API for BlowersElementActivationMainFlow
+2025-10-28 22:05:10,370 - INFO - Requesting Gemini rewrite for BlowersElementActivationMainFlow (attempt 1/3)...
+2025-10-28 22:05:10,370 - INFO - Creating thread for Gemini request - BlowersElementActivationMainFlow
+2025-10-28 22:05:10,370 - INFO - Starting thread for Gemini request - BlowersElementActivationMainFlow
+2025-10-28 22:05:10,371 - INFO - Starting Gemini API call for BlowersElementActivationMainFlow
+2025-10-28 22:05:10,371 - INFO - Waiting for thread completion (60s timeout) - BlowersElementActivationMainFlow
+2025-10-28 22:05:24,911 - INFO - Gemini API call completed for BlowersElementActivationMainFlow
+2025-10-28 22:05:24,911 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:05:24,911 - INFO - STEP 6.1: Gemini API call completed for BlowersElementActivationMainFlow
+2025-10-28 22:05:24,912 - INFO - Replaced method BlowersElementActivationMainFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Blowers_Element_Activation.cs
+2025-10-28 22:05:24,912 - INFO - [DRY RUN] Would replace 1 methods in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Blowers_Element_Activation.cs
+2025-10-28 22:05:24,912 - INFO - File 5 SUCCESSFULLY MODIFIED: PowerUp_Blowers_Element_Activation.cs
+2025-10-28 22:05:24,912 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:05:25,913 - INFO - ===== FINISHED PROCESSING FILE 5/42 =====
+2025-10-28 22:05:25,913 - INFO - ===== STARTING PROCESSING FILE 6/42: PowerUp_Bypasses_Before_Ready_State_Test.cs =====
+2025-10-28 22:05:25,914 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Bypasses_Before_Ready_State_Test.cs
+2025-10-28 22:05:25,914 - INFO - STEP 1: Reading file PowerUp_Bypasses_Before_Ready_State_Test.cs
+2025-10-28 22:05:25,915 - INFO - STEP 2: File read successfully - 156 lines
+2025-10-28 22:05:25,915 - INFO - STEP 3: Searching for main flow methods in PowerUp_Bypasses_Before_Ready_State_Test.cs
+2025-10-28 22:05:25,916 - INFO - Found main flow method: BypassesBeforeReadyStateMainFlow (lines 66-68)
+2025-10-28 22:05:25,916 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:05:25,916 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:05:25,916 - INFO - STEP 5.1: Searching XML summary for method BypassesBeforeReadyStateMainFlow
+2025-10-28 22:05:25,917 - INFO - STEP 5.1: XML summary FOUND for BypassesBeforeReadyStateMainFlow
+2025-10-28 22:05:25,917 - INFO - STEP 6.1: Requesting Gemini rewrite for method BypassesBeforeReadyStateMainFlow (lines 65-69)
+2025-10-28 22:05:25,917 - INFO - STEP 6.1: About to call Gemini API for BypassesBeforeReadyStateMainFlow
+2025-10-28 22:05:25,917 - INFO - Requesting Gemini rewrite for BypassesBeforeReadyStateMainFlow (attempt 1/3)...
+2025-10-28 22:05:25,917 - INFO - Creating thread for Gemini request - BypassesBeforeReadyStateMainFlow
+2025-10-28 22:05:25,917 - INFO - Starting thread for Gemini request - BypassesBeforeReadyStateMainFlow
+2025-10-28 22:05:25,917 - INFO - Starting Gemini API call for BypassesBeforeReadyStateMainFlow
+2025-10-28 22:05:25,917 - INFO - Waiting for thread completion (60s timeout) - BypassesBeforeReadyStateMainFlow
+2025-10-28 22:05:37,009 - INFO - Gemini API call completed for BypassesBeforeReadyStateMainFlow
+2025-10-28 22:05:37,009 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:05:37,009 - INFO - STEP 6.1: Gemini API call completed for BypassesBeforeReadyStateMainFlow
+2025-10-28 22:05:37,009 - INFO - Replaced method BypassesBeforeReadyStateMainFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Bypasses_Before_Ready_State_Test.cs
+2025-10-28 22:05:37,010 - INFO - [DRY RUN] Would replace 1 methods in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Bypasses_Before_Ready_State_Test.cs
+2025-10-28 22:05:37,010 - INFO - File 6 SUCCESSFULLY MODIFIED: PowerUp_Bypasses_Before_Ready_State_Test.cs
+2025-10-28 22:05:37,010 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:05:38,011 - INFO - ===== FINISHED PROCESSING FILE 6/42 =====
+2025-10-28 22:05:38,011 - INFO - ===== STARTING PROCESSING FILE 7/42: PowerUp_Charge_Roller_Element_Activation.cs =====
+2025-10-28 22:05:38,011 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Charge_Roller_Element_Activation.cs
+2025-10-28 22:05:38,011 - INFO - STEP 1: Reading file PowerUp_Charge_Roller_Element_Activation.cs
+2025-10-28 22:05:38,013 - INFO - STEP 2: File read successfully - 132 lines
+2025-10-28 22:05:38,013 - INFO - STEP 3: Searching for main flow methods in PowerUp_Charge_Roller_Element_Activation.cs
+2025-10-28 22:05:38,013 - INFO - Found main flow method: ChargeRollerMainFlow (lines 50-52)
+2025-10-28 22:05:38,013 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:05:38,013 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:05:38,013 - INFO - STEP 5.1: Searching XML summary for method ChargeRollerMainFlow
+2025-10-28 22:05:38,014 - INFO - STEP 5.1: XML summary FOUND for ChargeRollerMainFlow
+2025-10-28 22:05:38,014 - INFO - STEP 6.1: Requesting Gemini rewrite for method ChargeRollerMainFlow (lines 49-53)
+2025-10-28 22:05:38,014 - INFO - STEP 6.1: About to call Gemini API for ChargeRollerMainFlow
+2025-10-28 22:05:38,015 - INFO - Requesting Gemini rewrite for ChargeRollerMainFlow (attempt 1/3)...
+2025-10-28 22:05:38,015 - INFO - Creating thread for Gemini request - ChargeRollerMainFlow
+2025-10-28 22:05:38,015 - INFO - Starting thread for Gemini request - ChargeRollerMainFlow
+2025-10-28 22:05:38,015 - INFO - Starting Gemini API call for ChargeRollerMainFlow
+2025-10-28 22:05:38,015 - INFO - Waiting for thread completion (60s timeout) - ChargeRollerMainFlow
+2025-10-28 22:05:52,535 - INFO - Gemini API call completed for ChargeRollerMainFlow
+2025-10-28 22:05:52,536 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:05:52,536 - INFO - STEP 6.1: Gemini API call completed for ChargeRollerMainFlow
+2025-10-28 22:05:52,536 - INFO - Replaced method ChargeRollerMainFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Charge_Roller_Element_Activation.cs
+2025-10-28 22:05:52,536 - INFO - [DRY RUN] Would replace 1 methods in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Charge_Roller_Element_Activation.cs
+2025-10-28 22:05:52,536 - INFO - File 7 SUCCESSFULLY MODIFIED: PowerUp_Charge_Roller_Element_Activation.cs
+2025-10-28 22:05:52,537 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:05:53,538 - INFO - ===== FINISHED PROCESSING FILE 7/42 =====
+2025-10-28 22:05:53,538 - INFO - ===== STARTING PROCESSING FILE 8/42: PowerUp_Cleaner_Page_and_3D_Option_Definition.cs =====
+2025-10-28 22:05:53,539 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Cleaner_Page_and_3D_Option_Definition.cs
+2025-10-28 22:05:53,539 - INFO - STEP 1: Reading file PowerUp_Cleaner_Page_and_3D_Option_Definition.cs
+2025-10-28 22:05:53,540 - INFO - STEP 2: File read successfully - 90 lines
+2025-10-28 22:05:53,540 - INFO - STEP 3: Searching for main flow methods in PowerUp_Cleaner_Page_and_3D_Option_Definition.cs
+2025-10-28 22:05:53,541 - INFO - Found main flow method: CleanerPage3DOptionMainFlow (lines 48-50)
+2025-10-28 22:05:53,541 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:05:53,541 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:05:53,541 - INFO - STEP 5.1: Searching XML summary for method CleanerPage3DOptionMainFlow
+2025-10-28 22:05:53,542 - INFO - STEP 5.1: XML summary FOUND for CleanerPage3DOptionMainFlow
+2025-10-28 22:05:53,542 - INFO - STEP 6.1: Requesting Gemini rewrite for method CleanerPage3DOptionMainFlow (lines 47-51)
+2025-10-28 22:05:53,542 - INFO - STEP 6.1: About to call Gemini API for CleanerPage3DOptionMainFlow
+2025-10-28 22:05:53,542 - INFO - Requesting Gemini rewrite for CleanerPage3DOptionMainFlow (attempt 1/3)...
+2025-10-28 22:05:53,542 - INFO - Creating thread for Gemini request - CleanerPage3DOptionMainFlow
+2025-10-28 22:05:53,542 - INFO - Starting thread for Gemini request - CleanerPage3DOptionMainFlow
+2025-10-28 22:05:53,543 - INFO - Starting Gemini API call for CleanerPage3DOptionMainFlow
+2025-10-28 22:05:53,543 - INFO - Waiting for thread completion (60s timeout) - CleanerPage3DOptionMainFlow
+2025-10-28 22:06:03,960 - INFO - Gemini API call completed for CleanerPage3DOptionMainFlow
+2025-10-28 22:08:39,225 - INFO - Starting C# report step insertion - Root: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP
+2025-10-28 22:08:39,225 - INFO - Dry run mode: False
+2025-10-28 22:08:39,226 - INFO - Found 42 C# files
+2025-10-28 22:08:39,226 - INFO - ===== STARTING PROCESSING FILE 1/42: AOP_PerformanceMonitoring.cs =====
+2025-10-28 22:08:39,226 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\AOP_PerformanceMonitoring.cs
+2025-10-28 22:08:39,227 - INFO - STEP 1: Reading file AOP_PerformanceMonitoring.cs
+2025-10-28 22:08:39,227 - INFO - STEP 2: File read successfully - 79 lines
+2025-10-28 22:08:39,227 - INFO - STEP 3: Searching for main flow methods in AOP_PerformanceMonitoring.cs
+2025-10-28 22:08:39,228 - INFO - Found main flow method: AOP_PerformanceMonitoringFullFlow (lines 45-50)
+2025-10-28 22:08:39,228 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:08:39,228 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:08:39,228 - INFO - STEP 5.1: Searching XML summary for method AOP_PerformanceMonitoringFullFlow
+2025-10-28 22:08:39,229 - INFO - STEP 5.1: XML summary FOUND for AOP_PerformanceMonitoringFullFlow
+2025-10-28 22:08:39,229 - INFO - STEP 6.1: Requesting Gemini rewrite for method AOP_PerformanceMonitoringFullFlow (lines 44-51)
+2025-10-28 22:08:39,229 - INFO - STEP 6.1: About to call Gemini API for AOP_PerformanceMonitoringFullFlow
+2025-10-28 22:08:39,229 - INFO - Requesting Gemini rewrite for AOP_PerformanceMonitoringFullFlow (attempt 1/3)...
+2025-10-28 22:08:39,229 - INFO - Creating thread for Gemini request - AOP_PerformanceMonitoringFullFlow
+2025-10-28 22:08:39,229 - INFO - Starting thread for Gemini request - AOP_PerformanceMonitoringFullFlow
+2025-10-28 22:08:39,230 - INFO - Starting Gemini API call for AOP_PerformanceMonitoringFullFlow
+2025-10-28 22:08:39,230 - INFO - Waiting for thread completion (60s timeout) - AOP_PerformanceMonitoringFullFlow
+2025-10-28 22:08:50,584 - INFO - Gemini API call completed for AOP_PerformanceMonitoringFullFlow
+2025-10-28 22:08:50,585 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:08:50,585 - INFO - STEP 6.1: Gemini API call completed for AOP_PerformanceMonitoringFullFlow
+2025-10-28 22:08:50,585 - INFO - Replaced method AOP_PerformanceMonitoringFullFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\AOP_PerformanceMonitoring.cs
+2025-10-28 22:08:50,586 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\AOP_PerformanceMonitoring.cs: 1 methods replaced
+2025-10-28 22:08:50,586 - INFO - File 1 SUCCESSFULLY MODIFIED: AOP_PerformanceMonitoring.cs
+2025-10-28 22:08:50,586 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:08:51,587 - INFO - ===== FINISHED PROCESSING FILE 1/42 =====
+2025-10-28 22:08:51,587 - INFO - ===== STARTING PROCESSING FILE 2/42: PowerUp_Air_Drain_Test.cs =====
+2025-10-28 22:08:51,587 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Air_Drain_Test.cs
+2025-10-28 22:08:51,587 - INFO - STEP 1: Reading file PowerUp_Air_Drain_Test.cs
+2025-10-28 22:08:51,588 - INFO - STEP 2: File read successfully - 78 lines
+2025-10-28 22:08:51,588 - INFO - STEP 3: Searching for main flow methods in PowerUp_Air_Drain_Test.cs
+2025-10-28 22:08:51,588 - INFO - Found main flow method: InkWaterSystemMainFlow (lines 47-48)
+2025-10-28 22:08:51,588 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:08:51,589 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:08:51,589 - INFO - STEP 5.1: Searching XML summary for method InkWaterSystemMainFlow
+2025-10-28 22:08:51,590 - INFO - STEP 5.1: XML summary FOUND for InkWaterSystemMainFlow
+2025-10-28 22:08:51,590 - INFO - STEP 6.1: Requesting Gemini rewrite for method InkWaterSystemMainFlow (lines 46-49)
+2025-10-28 22:08:51,590 - INFO - STEP 6.1: About to call Gemini API for InkWaterSystemMainFlow
+2025-10-28 22:08:51,590 - INFO - Requesting Gemini rewrite for InkWaterSystemMainFlow (attempt 1/3)...
+2025-10-28 22:08:51,590 - INFO - Creating thread for Gemini request - InkWaterSystemMainFlow
+2025-10-28 22:08:51,590 - INFO - Starting thread for Gemini request - InkWaterSystemMainFlow
+2025-10-28 22:08:51,591 - INFO - Starting Gemini API call for InkWaterSystemMainFlow
+2025-10-28 22:08:51,591 - INFO - Waiting for thread completion (60s timeout) - InkWaterSystemMainFlow
+2025-10-28 22:09:45,969 - INFO - Gemini API call completed for InkWaterSystemMainFlow
+2025-10-28 22:09:45,970 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:09:45,970 - INFO - STEP 6.1: Gemini API call completed for InkWaterSystemMainFlow
+2025-10-28 22:09:45,970 - INFO - Replaced method InkWaterSystemMainFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Air_Drain_Test.cs
+2025-10-28 22:09:45,971 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Air_Drain_Test.cs: 1 methods replaced
+2025-10-28 22:09:45,971 - INFO - File 2 SUCCESSFULLY MODIFIED: PowerUp_Air_Drain_Test.cs
+2025-10-28 22:09:45,971 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:09:46,972 - INFO - ===== FINISHED PROCESSING FILE 2/42 =====
+2025-10-28 22:09:46,973 - INFO - ===== STARTING PROCESSING FILE 3/42: PowerUp_Auto_Bias_Ready_State.cs =====
+2025-10-28 22:09:46,973 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Auto_Bias_Ready_State.cs
+2025-10-28 22:09:46,973 - INFO - STEP 1: Reading file PowerUp_Auto_Bias_Ready_State.cs
+2025-10-28 22:09:46,973 - INFO - STEP 2: File read successfully - 125 lines
+2025-10-28 22:09:46,974 - INFO - STEP 3: Searching for main flow methods in PowerUp_Auto_Bias_Ready_State.cs
+2025-10-28 22:09:46,974 - INFO - Found main flow method: AutoBiasWizardFullFlow (lines 51-53)
+2025-10-28 22:09:46,974 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:09:46,974 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:09:46,974 - INFO - STEP 5.1: Searching XML summary for method AutoBiasWizardFullFlow
+2025-10-28 22:09:46,975 - INFO - STEP 5.1: XML summary FOUND for AutoBiasWizardFullFlow
+2025-10-28 22:09:46,975 - INFO - STEP 6.1: Requesting Gemini rewrite for method AutoBiasWizardFullFlow (lines 50-54)
+2025-10-28 22:09:46,975 - INFO - STEP 6.1: About to call Gemini API for AutoBiasWizardFullFlow
+2025-10-28 22:09:46,975 - INFO - Requesting Gemini rewrite for AutoBiasWizardFullFlow (attempt 1/3)...
+2025-10-28 22:09:46,975 - INFO - Creating thread for Gemini request - AutoBiasWizardFullFlow
+2025-10-28 22:09:46,975 - INFO - Starting thread for Gemini request - AutoBiasWizardFullFlow
+2025-10-28 22:09:46,976 - INFO - Starting Gemini API call for AutoBiasWizardFullFlow
+2025-10-28 22:09:46,976 - INFO - Waiting for thread completion (60s timeout) - AutoBiasWizardFullFlow
+2025-10-28 22:09:52,790 - INFO - Gemini API call completed for AutoBiasWizardFullFlow
+2025-10-28 22:09:52,790 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:09:52,790 - INFO - STEP 6.1: Gemini API call completed for AutoBiasWizardFullFlow
+2025-10-28 22:09:52,790 - INFO - Replaced method AutoBiasWizardFullFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Auto_Bias_Ready_State.cs
+2025-10-28 22:09:52,791 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Auto_Bias_Ready_State.cs: 1 methods replaced
+2025-10-28 22:09:52,791 - INFO - File 3 SUCCESSFULLY MODIFIED: PowerUp_Auto_Bias_Ready_State.cs
+2025-10-28 22:09:52,791 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:09:53,792 - INFO - ===== FINISHED PROCESSING FILE 3/42 =====
+2025-10-28 22:09:53,792 - INFO - ===== STARTING PROCESSING FILE 4/42: PowerUp_Bid_System_Automatic_Test_from_EATP.cs =====
+2025-10-28 22:09:53,793 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Bid_System_Automatic_Test_from_EATP.cs
+2025-10-28 22:09:53,793 - INFO - STEP 1: Reading file PowerUp_Bid_System_Automatic_Test_from_EATP.cs
+2025-10-28 22:09:53,793 - INFO - STEP 2: File read successfully - 167 lines
+2025-10-28 22:09:53,793 - INFO - STEP 3: Searching for main flow methods in PowerUp_Bid_System_Automatic_Test_from_EATP.cs
+2025-10-28 22:09:53,794 - INFO - Found main flow method: BidSystemAutomaticTestEATPMainFlow (lines 60-63)
+2025-10-28 22:09:53,794 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:09:53,794 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:09:53,794 - INFO - STEP 5.1: Searching XML summary for method BidSystemAutomaticTestEATPMainFlow
+2025-10-28 22:09:53,795 - INFO - STEP 5.1: XML summary FOUND for BidSystemAutomaticTestEATPMainFlow
+2025-10-28 22:09:53,795 - INFO - STEP 6.1: Requesting Gemini rewrite for method BidSystemAutomaticTestEATPMainFlow (lines 59-64)
+2025-10-28 22:09:53,795 - INFO - STEP 6.1: About to call Gemini API for BidSystemAutomaticTestEATPMainFlow
+2025-10-28 22:09:53,795 - INFO - Requesting Gemini rewrite for BidSystemAutomaticTestEATPMainFlow (attempt 1/3)...
+2025-10-28 22:09:53,795 - INFO - Creating thread for Gemini request - BidSystemAutomaticTestEATPMainFlow
+2025-10-28 22:09:53,795 - INFO - Starting thread for Gemini request - BidSystemAutomaticTestEATPMainFlow
+2025-10-28 22:09:53,796 - INFO - Starting Gemini API call for BidSystemAutomaticTestEATPMainFlow
+2025-10-28 22:09:53,796 - INFO - Waiting for thread completion (60s timeout) - BidSystemAutomaticTestEATPMainFlow
+2025-10-28 22:10:05,004 - INFO - Gemini API call completed for BidSystemAutomaticTestEATPMainFlow
+2025-10-28 22:10:05,005 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:10:05,005 - INFO - STEP 6.1: Gemini API call completed for BidSystemAutomaticTestEATPMainFlow
+2025-10-28 22:10:05,005 - INFO - Replaced method BidSystemAutomaticTestEATPMainFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Bid_System_Automatic_Test_from_EATP.cs
+2025-10-28 22:10:05,006 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Bid_System_Automatic_Test_from_EATP.cs: 1 methods replaced
+2025-10-28 22:10:05,006 - INFO - File 4 SUCCESSFULLY MODIFIED: PowerUp_Bid_System_Automatic_Test_from_EATP.cs
+2025-10-28 22:10:05,006 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:10:06,007 - INFO - ===== FINISHED PROCESSING FILE 4/42 =====
+2025-10-28 22:10:06,007 - INFO - ===== STARTING PROCESSING FILE 5/42: PowerUp_Blowers_Element_Activation.cs =====
+2025-10-28 22:10:06,007 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Blowers_Element_Activation.cs
+2025-10-28 22:10:06,008 - INFO - STEP 1: Reading file PowerUp_Blowers_Element_Activation.cs
+2025-10-28 22:10:06,008 - INFO - STEP 2: File read successfully - 232 lines
+2025-10-28 22:10:06,008 - INFO - STEP 3: Searching for main flow methods in PowerUp_Blowers_Element_Activation.cs
+2025-10-28 22:10:06,009 - INFO - Found main flow method: BlowersElementActivationMainFlow (lines 60-66)
+2025-10-28 22:10:06,009 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:10:06,009 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:10:06,010 - INFO - STEP 5.1: Searching XML summary for method BlowersElementActivationMainFlow
+2025-10-28 22:10:06,010 - INFO - STEP 5.1: XML summary FOUND for BlowersElementActivationMainFlow
+2025-10-28 22:10:06,011 - INFO - STEP 6.1: Requesting Gemini rewrite for method BlowersElementActivationMainFlow (lines 59-67)
+2025-10-28 22:10:06,011 - INFO - STEP 6.1: About to call Gemini API for BlowersElementActivationMainFlow
+2025-10-28 22:10:06,011 - INFO - Requesting Gemini rewrite for BlowersElementActivationMainFlow (attempt 1/3)...
+2025-10-28 22:10:06,011 - INFO - Creating thread for Gemini request - BlowersElementActivationMainFlow
+2025-10-28 22:10:06,011 - INFO - Starting thread for Gemini request - BlowersElementActivationMainFlow
+2025-10-28 22:10:06,011 - INFO - Starting Gemini API call for BlowersElementActivationMainFlow
+2025-10-28 22:10:06,011 - INFO - Waiting for thread completion (60s timeout) - BlowersElementActivationMainFlow
+2025-10-28 22:10:35,925 - INFO - Gemini API call completed for BlowersElementActivationMainFlow
+2025-10-28 22:10:35,926 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:10:35,926 - INFO - STEP 6.1: Gemini API call completed for BlowersElementActivationMainFlow
+2025-10-28 22:10:35,926 - INFO - Replaced method BlowersElementActivationMainFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Blowers_Element_Activation.cs
+2025-10-28 22:10:35,927 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Blowers_Element_Activation.cs: 1 methods replaced
+2025-10-28 22:10:35,927 - INFO - File 5 SUCCESSFULLY MODIFIED: PowerUp_Blowers_Element_Activation.cs
+2025-10-28 22:10:35,927 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:10:36,928 - INFO - ===== FINISHED PROCESSING FILE 5/42 =====
+2025-10-28 22:10:36,928 - INFO - ===== STARTING PROCESSING FILE 6/42: PowerUp_Bypasses_Before_Ready_State_Test.cs =====
+2025-10-28 22:10:36,928 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Bypasses_Before_Ready_State_Test.cs
+2025-10-28 22:10:36,928 - INFO - STEP 1: Reading file PowerUp_Bypasses_Before_Ready_State_Test.cs
+2025-10-28 22:10:36,929 - INFO - STEP 2: File read successfully - 156 lines
+2025-10-28 22:10:36,929 - INFO - STEP 3: Searching for main flow methods in PowerUp_Bypasses_Before_Ready_State_Test.cs
+2025-10-28 22:10:36,929 - INFO - Found main flow method: BypassesBeforeReadyStateMainFlow (lines 66-68)
+2025-10-28 22:10:36,930 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:10:36,930 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:10:36,930 - INFO - STEP 5.1: Searching XML summary for method BypassesBeforeReadyStateMainFlow
+2025-10-28 22:10:36,931 - INFO - STEP 5.1: XML summary FOUND for BypassesBeforeReadyStateMainFlow
+2025-10-28 22:10:36,931 - INFO - STEP 6.1: Requesting Gemini rewrite for method BypassesBeforeReadyStateMainFlow (lines 65-69)
+2025-10-28 22:10:36,931 - INFO - STEP 6.1: About to call Gemini API for BypassesBeforeReadyStateMainFlow
+2025-10-28 22:10:36,931 - INFO - Requesting Gemini rewrite for BypassesBeforeReadyStateMainFlow (attempt 1/3)...
+2025-10-28 22:10:36,931 - INFO - Creating thread for Gemini request - BypassesBeforeReadyStateMainFlow
+2025-10-28 22:10:36,931 - INFO - Starting thread for Gemini request - BypassesBeforeReadyStateMainFlow
+2025-10-28 22:10:36,932 - INFO - Starting Gemini API call for BypassesBeforeReadyStateMainFlow
+2025-10-28 22:10:36,932 - INFO - Waiting for thread completion (60s timeout) - BypassesBeforeReadyStateMainFlow
+2025-10-28 22:10:44,914 - INFO - Gemini API call completed for BypassesBeforeReadyStateMainFlow
+2025-10-28 22:10:44,914 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:10:44,915 - INFO - STEP 6.1: Gemini API call completed for BypassesBeforeReadyStateMainFlow
+2025-10-28 22:10:44,915 - INFO - Replaced method BypassesBeforeReadyStateMainFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Bypasses_Before_Ready_State_Test.cs
+2025-10-28 22:10:44,916 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Bypasses_Before_Ready_State_Test.cs: 1 methods replaced
+2025-10-28 22:10:44,916 - INFO - File 6 SUCCESSFULLY MODIFIED: PowerUp_Bypasses_Before_Ready_State_Test.cs
+2025-10-28 22:10:44,916 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:10:45,917 - INFO - ===== FINISHED PROCESSING FILE 6/42 =====
+2025-10-28 22:10:45,917 - INFO - ===== STARTING PROCESSING FILE 7/42: PowerUp_Charge_Roller_Element_Activation.cs =====
+2025-10-28 22:10:45,917 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Charge_Roller_Element_Activation.cs
+2025-10-28 22:10:45,917 - INFO - STEP 1: Reading file PowerUp_Charge_Roller_Element_Activation.cs
+2025-10-28 22:10:45,918 - INFO - STEP 2: File read successfully - 132 lines
+2025-10-28 22:10:45,918 - INFO - STEP 3: Searching for main flow methods in PowerUp_Charge_Roller_Element_Activation.cs
+2025-10-28 22:10:45,918 - INFO - Found main flow method: ChargeRollerMainFlow (lines 50-52)
+2025-10-28 22:10:45,919 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:10:45,919 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:10:45,919 - INFO - STEP 5.1: Searching XML summary for method ChargeRollerMainFlow
+2025-10-28 22:10:45,920 - INFO - STEP 5.1: XML summary FOUND for ChargeRollerMainFlow
+2025-10-28 22:10:45,920 - INFO - STEP 6.1: Requesting Gemini rewrite for method ChargeRollerMainFlow (lines 49-53)
+2025-10-28 22:10:45,920 - INFO - STEP 6.1: About to call Gemini API for ChargeRollerMainFlow
+2025-10-28 22:10:45,920 - INFO - Requesting Gemini rewrite for ChargeRollerMainFlow (attempt 1/3)...
+2025-10-28 22:10:45,920 - INFO - Creating thread for Gemini request - ChargeRollerMainFlow
+2025-10-28 22:10:45,920 - INFO - Starting thread for Gemini request - ChargeRollerMainFlow
+2025-10-28 22:10:45,921 - INFO - Starting Gemini API call for ChargeRollerMainFlow
+2025-10-28 22:10:45,921 - INFO - Waiting for thread completion (60s timeout) - ChargeRollerMainFlow
+2025-10-28 22:11:12,751 - INFO - Gemini API call completed for ChargeRollerMainFlow
+2025-10-28 22:11:12,752 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:11:12,752 - INFO - STEP 6.1: Gemini API call completed for ChargeRollerMainFlow
+2025-10-28 22:11:12,752 - INFO - Replaced method ChargeRollerMainFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Charge_Roller_Element_Activation.cs
+2025-10-28 22:11:12,753 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Charge_Roller_Element_Activation.cs: 1 methods replaced
+2025-10-28 22:11:12,753 - INFO - File 7 SUCCESSFULLY MODIFIED: PowerUp_Charge_Roller_Element_Activation.cs
+2025-10-28 22:11:12,753 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:11:13,754 - INFO - ===== FINISHED PROCESSING FILE 7/42 =====
+2025-10-28 22:11:13,755 - INFO - ===== STARTING PROCESSING FILE 8/42: PowerUp_Cleaner_Page_and_3D_Option_Definition.cs =====
+2025-10-28 22:11:13,755 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Cleaner_Page_and_3D_Option_Definition.cs
+2025-10-28 22:11:13,755 - INFO - STEP 1: Reading file PowerUp_Cleaner_Page_and_3D_Option_Definition.cs
+2025-10-28 22:11:13,756 - INFO - STEP 2: File read successfully - 90 lines
+2025-10-28 22:11:13,756 - INFO - STEP 3: Searching for main flow methods in PowerUp_Cleaner_Page_and_3D_Option_Definition.cs
+2025-10-28 22:11:13,756 - INFO - Found main flow method: CleanerPage3DOptionMainFlow (lines 48-50)
+2025-10-28 22:11:13,756 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:11:13,756 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:11:13,757 - INFO - STEP 5.1: Searching XML summary for method CleanerPage3DOptionMainFlow
+2025-10-28 22:11:13,757 - INFO - STEP 5.1: XML summary FOUND for CleanerPage3DOptionMainFlow
+2025-10-28 22:11:13,757 - INFO - STEP 6.1: Requesting Gemini rewrite for method CleanerPage3DOptionMainFlow (lines 47-51)
+2025-10-28 22:11:13,757 - INFO - STEP 6.1: About to call Gemini API for CleanerPage3DOptionMainFlow
+2025-10-28 22:11:13,757 - INFO - Requesting Gemini rewrite for CleanerPage3DOptionMainFlow (attempt 1/3)...
+2025-10-28 22:11:13,758 - INFO - Creating thread for Gemini request - CleanerPage3DOptionMainFlow
+2025-10-28 22:11:13,758 - INFO - Starting thread for Gemini request - CleanerPage3DOptionMainFlow
+2025-10-28 22:11:13,758 - INFO - Starting Gemini API call for CleanerPage3DOptionMainFlow
+2025-10-28 22:11:13,758 - INFO - Waiting for thread completion (60s timeout) - CleanerPage3DOptionMainFlow
+2025-10-28 22:11:27,335 - INFO - Gemini API call completed for CleanerPage3DOptionMainFlow
+2025-10-28 22:16:14,472 - INFO - Starting C# report step insertion - Root: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP
+2025-10-28 22:16:14,472 - INFO - Dry run mode: False
+2025-10-28 22:16:14,473 - INFO - Found 43 C# files
+2025-10-28 22:16:14,473 - INFO - ===== STARTING PROCESSING FILE 1/43: AOP_PerformanceMonitoring.cs =====
+2025-10-28 22:16:14,473 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\AOP_PerformanceMonitoring.cs
+2025-10-28 22:16:14,473 - INFO - STEP 1: Reading file AOP_PerformanceMonitoring.cs
+2025-10-28 22:16:14,474 - INFO - STEP 2: File read successfully - 77 lines
+2025-10-28 22:16:14,474 - INFO - STEP 3: Searching for main flow methods in AOP_PerformanceMonitoring.cs
+2025-10-28 22:16:14,474 - INFO - Found main flow method: AOP_PerformanceMonitoringFullFlow (lines 45-48)
+2025-10-28 22:16:14,474 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:16:14,474 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:16:14,475 - INFO - STEP 5.1: Searching XML summary for method AOP_PerformanceMonitoringFullFlow
+2025-10-28 22:16:14,475 - INFO - STEP 5.1: XML summary FOUND for AOP_PerformanceMonitoringFullFlow
+2025-10-28 22:16:14,475 - INFO - STEP 6.1: Requesting Gemini rewrite for method AOP_PerformanceMonitoringFullFlow (lines 44-49)
+2025-10-28 22:16:14,475 - INFO - STEP 6.1: About to call Gemini API for AOP_PerformanceMonitoringFullFlow
+2025-10-28 22:16:14,476 - INFO - Requesting Gemini rewrite for AOP_PerformanceMonitoringFullFlow (attempt 1/3)...
+2025-10-28 22:16:14,476 - INFO - Creating thread for Gemini request - AOP_PerformanceMonitoringFullFlow
+2025-10-28 22:16:14,476 - INFO - Starting thread for Gemini request - AOP_PerformanceMonitoringFullFlow
+2025-10-28 22:16:14,476 - INFO - Starting Gemini API call for AOP_PerformanceMonitoringFullFlow
+2025-10-28 22:16:14,477 - INFO - Waiting for thread completion (60s timeout) - AOP_PerformanceMonitoringFullFlow
+2025-10-28 22:16:24,101 - INFO - Gemini API call completed for AOP_PerformanceMonitoringFullFlow
+2025-10-28 22:16:24,102 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:16:24,102 - INFO - STEP 6.1: Gemini API call completed for AOP_PerformanceMonitoringFullFlow
+2025-10-28 22:16:24,102 - INFO - Replaced method AOP_PerformanceMonitoringFullFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\AOP_PerformanceMonitoring.cs
+2025-10-28 22:16:24,103 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\AOP_PerformanceMonitoring.cs: 1 methods replaced
+2025-10-28 22:16:24,104 - INFO - File 1 SUCCESSFULLY MODIFIED: AOP_PerformanceMonitoring.cs
+2025-10-28 22:16:24,104 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:16:25,104 - INFO - ===== FINISHED PROCESSING FILE 1/43 =====
+2025-10-28 22:16:25,105 - INFO - ===== STARTING PROCESSING FILE 2/43: PowerUp SPM Wizard.cs =====
+2025-10-28 22:16:25,105 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp SPM Wizard.cs
+2025-10-28 22:16:25,105 - INFO - STEP 1: Reading file PowerUp SPM Wizard.cs
+2025-10-28 22:16:25,107 - INFO - STEP 2: File read successfully - 89 lines
+2025-10-28 22:16:25,107 - INFO - STEP 3: Searching for main flow methods in PowerUp SPM Wizard.cs
+2025-10-28 22:16:25,107 - INFO - Found main flow method: SPM_Wizard_Main_Flow (lines 52-57)
+2025-10-28 22:16:25,107 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:16:25,107 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:16:25,107 - INFO - STEP 5.1: Searching XML summary for method SPM_Wizard_Main_Flow
+2025-10-28 22:16:25,108 - INFO - STEP 5.1: XML summary FOUND for SPM_Wizard_Main_Flow
+2025-10-28 22:16:25,108 - INFO - STEP 6.1: Requesting Gemini rewrite for method SPM_Wizard_Main_Flow (lines 51-58)
+2025-10-28 22:16:25,109 - INFO - STEP 6.1: About to call Gemini API for SPM_Wizard_Main_Flow
+2025-10-28 22:16:25,109 - INFO - Requesting Gemini rewrite for SPM_Wizard_Main_Flow (attempt 1/3)...
+2025-10-28 22:16:25,109 - INFO - Creating thread for Gemini request - SPM_Wizard_Main_Flow
+2025-10-28 22:16:25,109 - INFO - Starting thread for Gemini request - SPM_Wizard_Main_Flow
+2025-10-28 22:16:25,109 - INFO - Starting Gemini API call for SPM_Wizard_Main_Flow
+2025-10-28 22:16:25,110 - INFO - Waiting for thread completion (60s timeout) - SPM_Wizard_Main_Flow
+2025-10-28 22:16:35,105 - INFO - Gemini API call completed for SPM_Wizard_Main_Flow
+2025-10-28 22:16:35,106 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:16:35,106 - INFO - STEP 6.1: Gemini API call completed for SPM_Wizard_Main_Flow
+2025-10-28 22:16:35,107 - INFO - Replaced method SPM_Wizard_Main_Flow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp SPM Wizard.cs
+2025-10-28 22:16:35,108 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp SPM Wizard.cs: 1 methods replaced
+2025-10-28 22:16:35,108 - INFO - File 2 SUCCESSFULLY MODIFIED: PowerUp SPM Wizard.cs
+2025-10-28 22:16:35,108 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:16:36,109 - INFO - ===== FINISHED PROCESSING FILE 2/43 =====
+2025-10-28 22:16:36,110 - INFO - ===== STARTING PROCESSING FILE 3/43: PowerUp_Air_Drain_Test.cs =====
+2025-10-28 22:16:36,110 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Air_Drain_Test.cs
+2025-10-28 22:16:36,110 - INFO - STEP 1: Reading file PowerUp_Air_Drain_Test.cs
+2025-10-28 22:16:36,110 - INFO - STEP 2: File read successfully - 78 lines
+2025-10-28 22:16:36,111 - INFO - STEP 3: Searching for main flow methods in PowerUp_Air_Drain_Test.cs
+2025-10-28 22:16:36,111 - INFO - Found main flow method: InkWaterSystemMainFlow (lines 47-48)
+2025-10-28 22:16:36,111 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:16:36,111 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:16:36,111 - INFO - STEP 5.1: Searching XML summary for method InkWaterSystemMainFlow
+2025-10-28 22:16:36,112 - INFO - STEP 5.1: XML summary FOUND for InkWaterSystemMainFlow
+2025-10-28 22:16:36,112 - INFO - STEP 6.1: Requesting Gemini rewrite for method InkWaterSystemMainFlow (lines 46-49)
+2025-10-28 22:16:36,112 - INFO - STEP 6.1: About to call Gemini API for InkWaterSystemMainFlow
+2025-10-28 22:16:36,112 - INFO - Requesting Gemini rewrite for InkWaterSystemMainFlow (attempt 1/3)...
+2025-10-28 22:16:36,113 - INFO - Creating thread for Gemini request - InkWaterSystemMainFlow
+2025-10-28 22:16:36,113 - INFO - Starting thread for Gemini request - InkWaterSystemMainFlow
+2025-10-28 22:16:36,113 - INFO - Starting Gemini API call for InkWaterSystemMainFlow
+2025-10-28 22:16:36,113 - INFO - Waiting for thread completion (60s timeout) - InkWaterSystemMainFlow
+2025-10-28 22:16:58,494 - INFO - Gemini API call completed for InkWaterSystemMainFlow
+2025-10-28 22:16:58,495 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:16:58,495 - INFO - STEP 6.1: Gemini API call completed for InkWaterSystemMainFlow
+2025-10-28 22:16:58,495 - INFO - Replaced method InkWaterSystemMainFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Air_Drain_Test.cs
+2025-10-28 22:16:58,496 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Air_Drain_Test.cs: 1 methods replaced
+2025-10-28 22:16:58,496 - INFO - File 3 SUCCESSFULLY MODIFIED: PowerUp_Air_Drain_Test.cs
+2025-10-28 22:16:58,496 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:16:59,496 - INFO - ===== FINISHED PROCESSING FILE 3/43 =====
+2025-10-28 22:16:59,497 - INFO - ===== STARTING PROCESSING FILE 4/43: PowerUp_Auto_Bias_Ready_State.cs =====
+2025-10-28 22:16:59,497 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Auto_Bias_Ready_State.cs
+2025-10-28 22:16:59,497 - INFO - STEP 1: Reading file PowerUp_Auto_Bias_Ready_State.cs
+2025-10-28 22:16:59,497 - INFO - STEP 2: File read successfully - 125 lines
+2025-10-28 22:16:59,498 - INFO - STEP 3: Searching for main flow methods in PowerUp_Auto_Bias_Ready_State.cs
+2025-10-28 22:16:59,498 - INFO - Found main flow method: AutoBiasWizardFullFlow (lines 51-53)
+2025-10-28 22:16:59,498 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:16:59,498 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:16:59,499 - INFO - STEP 5.1: Searching XML summary for method AutoBiasWizardFullFlow
+2025-10-28 22:16:59,499 - INFO - STEP 5.1: XML summary FOUND for AutoBiasWizardFullFlow
+2025-10-28 22:16:59,499 - INFO - STEP 6.1: Requesting Gemini rewrite for method AutoBiasWizardFullFlow (lines 50-54)
+2025-10-28 22:16:59,499 - INFO - STEP 6.1: About to call Gemini API for AutoBiasWizardFullFlow
+2025-10-28 22:16:59,500 - INFO - Requesting Gemini rewrite for AutoBiasWizardFullFlow (attempt 1/3)...
+2025-10-28 22:16:59,500 - INFO - Creating thread for Gemini request - AutoBiasWizardFullFlow
+2025-10-28 22:16:59,500 - INFO - Starting thread for Gemini request - AutoBiasWizardFullFlow
+2025-10-28 22:16:59,500 - INFO - Starting Gemini API call for AutoBiasWizardFullFlow
+2025-10-28 22:16:59,500 - INFO - Waiting for thread completion (60s timeout) - AutoBiasWizardFullFlow
+2025-10-28 22:17:08,310 - INFO - Gemini API call completed for AutoBiasWizardFullFlow
+2025-10-28 22:17:08,311 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:17:08,311 - INFO - STEP 6.1: Gemini API call completed for AutoBiasWizardFullFlow
+2025-10-28 22:17:08,311 - INFO - Replaced method AutoBiasWizardFullFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Auto_Bias_Ready_State.cs
+2025-10-28 22:17:08,312 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Auto_Bias_Ready_State.cs: 1 methods replaced
+2025-10-28 22:17:08,312 - INFO - File 4 SUCCESSFULLY MODIFIED: PowerUp_Auto_Bias_Ready_State.cs
+2025-10-28 22:17:08,312 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:17:09,313 - INFO - ===== FINISHED PROCESSING FILE 4/43 =====
+2025-10-28 22:17:09,313 - INFO - ===== STARTING PROCESSING FILE 5/43: PowerUp_Bid_System_Automatic_Test_from_EATP.cs =====
+2025-10-28 22:17:09,313 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Bid_System_Automatic_Test_from_EATP.cs
+2025-10-28 22:17:09,314 - INFO - STEP 1: Reading file PowerUp_Bid_System_Automatic_Test_from_EATP.cs
+2025-10-28 22:17:09,314 - INFO - STEP 2: File read successfully - 167 lines
+2025-10-28 22:17:09,314 - INFO - STEP 3: Searching for main flow methods in PowerUp_Bid_System_Automatic_Test_from_EATP.cs
+2025-10-28 22:17:09,315 - INFO - Found main flow method: BidSystemAutomaticTestEATPMainFlow (lines 60-63)
+2025-10-28 22:17:09,315 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:17:09,315 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:17:09,315 - INFO - STEP 5.1: Searching XML summary for method BidSystemAutomaticTestEATPMainFlow
+2025-10-28 22:17:09,316 - INFO - STEP 5.1: XML summary FOUND for BidSystemAutomaticTestEATPMainFlow
+2025-10-28 22:17:09,316 - INFO - STEP 6.1: Requesting Gemini rewrite for method BidSystemAutomaticTestEATPMainFlow (lines 59-64)
+2025-10-28 22:17:09,316 - INFO - STEP 6.1: About to call Gemini API for BidSystemAutomaticTestEATPMainFlow
+2025-10-28 22:17:09,316 - INFO - Requesting Gemini rewrite for BidSystemAutomaticTestEATPMainFlow (attempt 1/3)...
+2025-10-28 22:17:09,316 - INFO - Creating thread for Gemini request - BidSystemAutomaticTestEATPMainFlow
+2025-10-28 22:17:09,316 - INFO - Starting thread for Gemini request - BidSystemAutomaticTestEATPMainFlow
+2025-10-28 22:17:09,317 - INFO - Starting Gemini API call for BidSystemAutomaticTestEATPMainFlow
+2025-10-28 22:17:09,317 - INFO - Waiting for thread completion (60s timeout) - BidSystemAutomaticTestEATPMainFlow
+2025-10-28 22:17:19,240 - INFO - Gemini API call completed for BidSystemAutomaticTestEATPMainFlow
+2025-10-28 22:17:19,240 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:17:19,241 - INFO - STEP 6.1: Gemini API call completed for BidSystemAutomaticTestEATPMainFlow
+2025-10-28 22:17:19,241 - INFO - Replaced method BidSystemAutomaticTestEATPMainFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Bid_System_Automatic_Test_from_EATP.cs
+2025-10-28 22:17:19,242 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Bid_System_Automatic_Test_from_EATP.cs: 1 methods replaced
+2025-10-28 22:17:19,242 - INFO - File 5 SUCCESSFULLY MODIFIED: PowerUp_Bid_System_Automatic_Test_from_EATP.cs
+2025-10-28 22:17:19,242 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:17:20,242 - INFO - ===== FINISHED PROCESSING FILE 5/43 =====
+2025-10-28 22:17:20,243 - INFO - ===== STARTING PROCESSING FILE 6/43: PowerUp_Blowers_Element_Activation.cs =====
+2025-10-28 22:17:20,243 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Blowers_Element_Activation.cs
+2025-10-28 22:17:20,243 - INFO - STEP 1: Reading file PowerUp_Blowers_Element_Activation.cs
+2025-10-28 22:17:20,262 - INFO - STEP 2: File read successfully - 232 lines
+2025-10-28 22:17:20,262 - INFO - STEP 3: Searching for main flow methods in PowerUp_Blowers_Element_Activation.cs
+2025-10-28 22:17:20,263 - INFO - Found main flow method: BlowersElementActivationMainFlow (lines 60-66)
+2025-10-28 22:17:20,263 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:17:20,264 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:17:20,264 - INFO - STEP 5.1: Searching XML summary for method BlowersElementActivationMainFlow
+2025-10-28 22:17:20,264 - INFO - STEP 5.1: XML summary FOUND for BlowersElementActivationMainFlow
+2025-10-28 22:17:20,265 - INFO - STEP 6.1: Requesting Gemini rewrite for method BlowersElementActivationMainFlow (lines 59-67)
+2025-10-28 22:17:20,265 - INFO - STEP 6.1: About to call Gemini API for BlowersElementActivationMainFlow
+2025-10-28 22:17:20,265 - INFO - Requesting Gemini rewrite for BlowersElementActivationMainFlow (attempt 1/3)...
+2025-10-28 22:17:20,265 - INFO - Creating thread for Gemini request - BlowersElementActivationMainFlow
+2025-10-28 22:17:20,265 - INFO - Starting thread for Gemini request - BlowersElementActivationMainFlow
+2025-10-28 22:17:20,265 - INFO - Starting Gemini API call for BlowersElementActivationMainFlow
+2025-10-28 22:17:20,265 - INFO - Waiting for thread completion (60s timeout) - BlowersElementActivationMainFlow
+2025-10-28 22:17:42,943 - INFO - Gemini API call completed for BlowersElementActivationMainFlow
+2025-10-28 22:17:42,944 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:17:42,944 - INFO - STEP 6.1: Gemini API call completed for BlowersElementActivationMainFlow
+2025-10-28 22:17:42,944 - INFO - Replaced method BlowersElementActivationMainFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Blowers_Element_Activation.cs
+2025-10-28 22:17:42,945 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Blowers_Element_Activation.cs: 1 methods replaced
+2025-10-28 22:17:42,945 - INFO - File 6 SUCCESSFULLY MODIFIED: PowerUp_Blowers_Element_Activation.cs
+2025-10-28 22:17:42,945 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:17:43,945 - INFO - ===== FINISHED PROCESSING FILE 6/43 =====
+2025-10-28 22:17:43,946 - INFO - ===== STARTING PROCESSING FILE 7/43: PowerUp_Bypasses_Before_Ready_State_Test.cs =====
+2025-10-28 22:17:43,946 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Bypasses_Before_Ready_State_Test.cs
+2025-10-28 22:17:43,946 - INFO - STEP 1: Reading file PowerUp_Bypasses_Before_Ready_State_Test.cs
+2025-10-28 22:17:43,949 - INFO - STEP 2: File read successfully - 156 lines
+2025-10-28 22:17:43,949 - INFO - STEP 3: Searching for main flow methods in PowerUp_Bypasses_Before_Ready_State_Test.cs
+2025-10-28 22:17:43,950 - INFO - Found main flow method: BypassesBeforeReadyStateMainFlow (lines 66-68)
+2025-10-28 22:17:43,950 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:17:43,950 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:17:43,950 - INFO - STEP 5.1: Searching XML summary for method BypassesBeforeReadyStateMainFlow
+2025-10-28 22:17:43,951 - INFO - STEP 5.1: XML summary FOUND for BypassesBeforeReadyStateMainFlow
+2025-10-28 22:17:43,951 - INFO - STEP 6.1: Requesting Gemini rewrite for method BypassesBeforeReadyStateMainFlow (lines 65-69)
+2025-10-28 22:17:43,951 - INFO - STEP 6.1: About to call Gemini API for BypassesBeforeReadyStateMainFlow
+2025-10-28 22:17:43,951 - INFO - Requesting Gemini rewrite for BypassesBeforeReadyStateMainFlow (attempt 1/3)...
+2025-10-28 22:17:43,951 - INFO - Creating thread for Gemini request - BypassesBeforeReadyStateMainFlow
+2025-10-28 22:17:43,952 - INFO - Starting thread for Gemini request - BypassesBeforeReadyStateMainFlow
+2025-10-28 22:17:43,952 - INFO - Starting Gemini API call for BypassesBeforeReadyStateMainFlow
+2025-10-28 22:17:43,952 - INFO - Waiting for thread completion (60s timeout) - BypassesBeforeReadyStateMainFlow
+2025-10-28 22:17:55,916 - INFO - Gemini API call completed for BypassesBeforeReadyStateMainFlow
+2025-10-28 22:17:55,917 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:17:55,917 - INFO - STEP 6.1: Gemini API call completed for BypassesBeforeReadyStateMainFlow
+2025-10-28 22:17:55,917 - INFO - Replaced method BypassesBeforeReadyStateMainFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Bypasses_Before_Ready_State_Test.cs
+2025-10-28 22:17:55,918 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Bypasses_Before_Ready_State_Test.cs: 1 methods replaced
+2025-10-28 22:17:55,918 - INFO - File 7 SUCCESSFULLY MODIFIED: PowerUp_Bypasses_Before_Ready_State_Test.cs
+2025-10-28 22:17:55,918 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:17:56,919 - INFO - ===== FINISHED PROCESSING FILE 7/43 =====
+2025-10-28 22:17:56,919 - INFO - ===== STARTING PROCESSING FILE 8/43: PowerUp_Charge_Roller_Element_Activation.cs =====
+2025-10-28 22:17:56,919 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Charge_Roller_Element_Activation.cs
+2025-10-28 22:17:56,919 - INFO - STEP 1: Reading file PowerUp_Charge_Roller_Element_Activation.cs
+2025-10-28 22:17:56,938 - INFO - STEP 2: File read successfully - 132 lines
+2025-10-28 22:17:56,938 - INFO - STEP 3: Searching for main flow methods in PowerUp_Charge_Roller_Element_Activation.cs
+2025-10-28 22:17:56,938 - INFO - Found main flow method: ChargeRollerMainFlow (lines 50-52)
+2025-10-28 22:17:56,939 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:17:56,939 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:17:56,939 - INFO - STEP 5.1: Searching XML summary for method ChargeRollerMainFlow
+2025-10-28 22:17:56,940 - INFO - STEP 5.1: XML summary FOUND for ChargeRollerMainFlow
+2025-10-28 22:17:56,940 - INFO - STEP 6.1: Requesting Gemini rewrite for method ChargeRollerMainFlow (lines 49-53)
+2025-10-28 22:17:56,940 - INFO - STEP 6.1: About to call Gemini API for ChargeRollerMainFlow
+2025-10-28 22:17:56,940 - INFO - Requesting Gemini rewrite for ChargeRollerMainFlow (attempt 1/3)...
+2025-10-28 22:17:56,940 - INFO - Creating thread for Gemini request - ChargeRollerMainFlow
+2025-10-28 22:17:56,940 - INFO - Starting thread for Gemini request - ChargeRollerMainFlow
+2025-10-28 22:17:56,941 - INFO - Starting Gemini API call for ChargeRollerMainFlow
+2025-10-28 22:17:56,941 - INFO - Waiting for thread completion (60s timeout) - ChargeRollerMainFlow
+2025-10-28 22:18:09,059 - INFO - Gemini API call completed for ChargeRollerMainFlow
+2025-10-28 22:18:09,060 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:18:09,060 - INFO - STEP 6.1: Gemini API call completed for ChargeRollerMainFlow
+2025-10-28 22:18:09,060 - INFO - Replaced method ChargeRollerMainFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Charge_Roller_Element_Activation.cs
+2025-10-28 22:18:09,061 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Charge_Roller_Element_Activation.cs: 1 methods replaced
+2025-10-28 22:18:09,061 - INFO - File 8 SUCCESSFULLY MODIFIED: PowerUp_Charge_Roller_Element_Activation.cs
+2025-10-28 22:18:09,061 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:18:10,061 - INFO - ===== FINISHED PROCESSING FILE 8/43 =====
+2025-10-28 22:18:10,062 - INFO - ===== STARTING PROCESSING FILE 9/43: PowerUp_Cleaner_Page_and_3D_Option_Definition.cs =====
+2025-10-28 22:18:10,062 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Cleaner_Page_and_3D_Option_Definition.cs
+2025-10-28 22:18:10,062 - INFO - STEP 1: Reading file PowerUp_Cleaner_Page_and_3D_Option_Definition.cs
+2025-10-28 22:18:10,063 - INFO - STEP 2: File read successfully - 90 lines
+2025-10-28 22:18:10,063 - INFO - STEP 3: Searching for main flow methods in PowerUp_Cleaner_Page_and_3D_Option_Definition.cs
+2025-10-28 22:18:10,063 - INFO - Found main flow method: CleanerPage3DOptionMainFlow (lines 48-50)
+2025-10-28 22:18:10,063 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:18:10,064 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:18:10,064 - INFO - STEP 5.1: Searching XML summary for method CleanerPage3DOptionMainFlow
+2025-10-28 22:18:10,064 - INFO - STEP 5.1: XML summary FOUND for CleanerPage3DOptionMainFlow
+2025-10-28 22:18:10,064 - INFO - STEP 6.1: Requesting Gemini rewrite for method CleanerPage3DOptionMainFlow (lines 47-51)
+2025-10-28 22:18:10,065 - INFO - STEP 6.1: About to call Gemini API for CleanerPage3DOptionMainFlow
+2025-10-28 22:18:10,065 - INFO - Requesting Gemini rewrite for CleanerPage3DOptionMainFlow (attempt 1/3)...
+2025-10-28 22:18:10,065 - INFO - Creating thread for Gemini request - CleanerPage3DOptionMainFlow
+2025-10-28 22:18:10,065 - INFO - Starting thread for Gemini request - CleanerPage3DOptionMainFlow
+2025-10-28 22:18:10,066 - INFO - Starting Gemini API call for CleanerPage3DOptionMainFlow
+2025-10-28 22:18:10,066 - INFO - Waiting for thread completion (60s timeout) - CleanerPage3DOptionMainFlow
+2025-10-28 22:18:20,606 - INFO - Gemini API call completed for CleanerPage3DOptionMainFlow
+2025-10-28 22:18:20,606 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:18:20,607 - INFO - STEP 6.1: Gemini API call completed for CleanerPage3DOptionMainFlow
+2025-10-28 22:18:20,607 - INFO - Replaced method CleanerPage3DOptionMainFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Cleaner_Page_and_3D_Option_Definition.cs
+2025-10-28 22:18:20,608 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Cleaner_Page_and_3D_Option_Definition.cs: 1 methods replaced
+2025-10-28 22:18:20,608 - INFO - File 9 SUCCESSFULLY MODIFIED: PowerUp_Cleaner_Page_and_3D_Option_Definition.cs
+2025-10-28 22:18:20,608 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:18:21,609 - INFO - ===== FINISHED PROCESSING FILE 9/43 =====
+2025-10-28 22:18:21,609 - INFO - ===== STARTING PROCESSING FILE 10/43: PowerUp_Cleaning_Station_Automatic_Test.cs =====
+2025-10-28 22:18:21,609 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Cleaning_Station_Automatic_Test.cs
+2025-10-28 22:18:21,609 - INFO - STEP 1: Reading file PowerUp_Cleaning_Station_Automatic_Test.cs
+2025-10-28 22:18:21,611 - INFO - STEP 2: File read successfully - 83 lines
+2025-10-28 22:18:21,611 - INFO - STEP 3: Searching for main flow methods in PowerUp_Cleaning_Station_Automatic_Test.cs
+2025-10-28 22:18:21,611 - INFO - Found main flow method: CleaningStationAutomaticTestMainFlow (lines 53-58)
+2025-10-28 22:18:21,611 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:18:21,612 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:18:21,612 - INFO - STEP 5.1: Searching XML summary for method CleaningStationAutomaticTestMainFlow
+2025-10-28 22:18:21,612 - INFO - STEP 5.1: XML summary FOUND for CleaningStationAutomaticTestMainFlow
+2025-10-28 22:18:21,612 - INFO - STEP 6.1: Requesting Gemini rewrite for method CleaningStationAutomaticTestMainFlow (lines 52-59)
+2025-10-28 22:18:21,612 - INFO - STEP 6.1: About to call Gemini API for CleaningStationAutomaticTestMainFlow
+2025-10-28 22:18:21,613 - INFO - Requesting Gemini rewrite for CleaningStationAutomaticTestMainFlow (attempt 1/3)...
+2025-10-28 22:18:21,613 - INFO - Creating thread for Gemini request - CleaningStationAutomaticTestMainFlow
+2025-10-28 22:18:21,613 - INFO - Starting thread for Gemini request - CleaningStationAutomaticTestMainFlow
+2025-10-28 22:18:21,613 - INFO - Starting Gemini API call for CleaningStationAutomaticTestMainFlow
+2025-10-28 22:18:21,613 - INFO - Waiting for thread completion (60s timeout) - CleaningStationAutomaticTestMainFlow
+2025-10-28 22:18:31,547 - INFO - Gemini API call completed for CleaningStationAutomaticTestMainFlow
+2025-10-28 22:18:31,547 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:18:31,547 - INFO - STEP 6.1: Gemini API call completed for CleaningStationAutomaticTestMainFlow
+2025-10-28 22:18:31,548 - INFO - Replaced method CleaningStationAutomaticTestMainFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Cleaning_Station_Automatic_Test.cs
+2025-10-28 22:18:31,548 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Cleaning_Station_Automatic_Test.cs: 1 methods replaced
+2025-10-28 22:18:31,548 - INFO - File 10 SUCCESSFULLY MODIFIED: PowerUp_Cleaning_Station_Automatic_Test.cs
+2025-10-28 22:18:31,549 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:18:32,549 - INFO - ===== FINISHED PROCESSING FILE 10/43 =====
+2025-10-28 22:18:32,549 - INFO - ===== STARTING PROCESSING FILE 11/43: PowerUp_Cleaning_Station_Wizard.cs =====
+2025-10-28 22:18:32,549 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Cleaning_Station_Wizard.cs
+2025-10-28 22:18:32,550 - INFO - STEP 1: Reading file PowerUp_Cleaning_Station_Wizard.cs
+2025-10-28 22:18:32,551 - INFO - STEP 2: File read successfully - 118 lines
+2025-10-28 22:18:32,552 - INFO - STEP 3: Searching for main flow methods in PowerUp_Cleaning_Station_Wizard.cs
+2025-10-28 22:18:32,552 - INFO - Found main flow method: CleaningStationWizardMainFlow (lines 52-55)
+2025-10-28 22:18:32,552 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:18:32,552 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:18:32,553 - INFO - STEP 5.1: Searching XML summary for method CleaningStationWizardMainFlow
+2025-10-28 22:18:32,553 - INFO - STEP 5.1: XML summary FOUND for CleaningStationWizardMainFlow
+2025-10-28 22:18:32,554 - INFO - STEP 6.1: Requesting Gemini rewrite for method CleaningStationWizardMainFlow (lines 51-56)
+2025-10-28 22:18:32,554 - INFO - STEP 6.1: About to call Gemini API for CleaningStationWizardMainFlow
+2025-10-28 22:18:32,554 - INFO - Requesting Gemini rewrite for CleaningStationWizardMainFlow (attempt 1/3)...
+2025-10-28 22:18:32,554 - INFO - Creating thread for Gemini request - CleaningStationWizardMainFlow
+2025-10-28 22:18:32,554 - INFO - Starting thread for Gemini request - CleaningStationWizardMainFlow
+2025-10-28 22:18:32,554 - INFO - Starting Gemini API call for CleaningStationWizardMainFlow
+2025-10-28 22:18:32,554 - INFO - Waiting for thread completion (60s timeout) - CleaningStationWizardMainFlow
+2025-10-28 22:18:41,161 - INFO - Gemini API call completed for CleaningStationWizardMainFlow
+2025-10-28 22:18:41,162 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:18:41,162 - INFO - STEP 6.1: Gemini API call completed for CleaningStationWizardMainFlow
+2025-10-28 22:18:41,162 - INFO - Replaced method CleaningStationWizardMainFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Cleaning_Station_Wizard.cs
+2025-10-28 22:18:41,163 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Cleaning_Station_Wizard.cs: 1 methods replaced
+2025-10-28 22:18:41,163 - INFO - File 11 SUCCESSFULLY MODIFIED: PowerUp_Cleaning_Station_Wizard.cs
+2025-10-28 22:18:41,163 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:18:42,164 - INFO - ===== FINISHED PROCESSING FILE 11/43 =====
+2025-10-28 22:18:42,164 - INFO - ===== STARTING PROCESSING FILE 12/43: PowerUp_Duplex_Automatic_Test.cs =====
+2025-10-28 22:18:42,164 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Duplex_Automatic_Test.cs
+2025-10-28 22:18:42,165 - INFO - STEP 1: Reading file PowerUp_Duplex_Automatic_Test.cs
+2025-10-28 22:18:42,166 - INFO - STEP 2: File read successfully - 95 lines
+2025-10-28 22:18:42,166 - INFO - STEP 3: Searching for main flow methods in PowerUp_Duplex_Automatic_Test.cs
+2025-10-28 22:18:42,166 - INFO - Found main flow method: DuplexAutomaticTestMainFlow (lines 58-61)
+2025-10-28 22:18:42,166 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:18:42,166 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:18:42,166 - INFO - STEP 5.1: Searching XML summary for method DuplexAutomaticTestMainFlow
+2025-10-28 22:18:42,167 - INFO - STEP 5.1: XML summary FOUND for DuplexAutomaticTestMainFlow
+2025-10-28 22:18:42,167 - INFO - STEP 6.1: Requesting Gemini rewrite for method DuplexAutomaticTestMainFlow (lines 57-62)
+2025-10-28 22:18:42,167 - INFO - STEP 6.1: About to call Gemini API for DuplexAutomaticTestMainFlow
+2025-10-28 22:18:42,167 - INFO - Requesting Gemini rewrite for DuplexAutomaticTestMainFlow (attempt 1/3)...
+2025-10-28 22:18:42,168 - INFO - Creating thread for Gemini request - DuplexAutomaticTestMainFlow
+2025-10-28 22:18:42,168 - INFO - Starting thread for Gemini request - DuplexAutomaticTestMainFlow
+2025-10-28 22:18:42,168 - INFO - Starting Gemini API call for DuplexAutomaticTestMainFlow
+2025-10-28 22:18:42,168 - INFO - Waiting for thread completion (60s timeout) - DuplexAutomaticTestMainFlow
+2025-10-28 22:18:49,981 - INFO - Gemini API call completed for DuplexAutomaticTestMainFlow
+2025-10-28 22:18:49,982 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:18:49,982 - INFO - STEP 6.1: Gemini API call completed for DuplexAutomaticTestMainFlow
+2025-10-28 22:18:49,982 - INFO - Replaced method DuplexAutomaticTestMainFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Duplex_Automatic_Test.cs
+2025-10-28 22:18:49,983 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Duplex_Automatic_Test.cs: 1 methods replaced
+2025-10-28 22:18:49,983 - INFO - File 12 SUCCESSFULLY MODIFIED: PowerUp_Duplex_Automatic_Test.cs
+2025-10-28 22:18:49,984 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:18:50,984 - INFO - ===== FINISHED PROCESSING FILE 12/43 =====
+2025-10-28 22:18:50,984 - INFO - ===== STARTING PROCESSING FILE 13/43: PowerUp_Duplex_Element_Activation.cs =====
+2025-10-28 22:18:50,985 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Duplex_Element_Activation.cs
+2025-10-28 22:18:50,985 - INFO - STEP 1: Reading file PowerUp_Duplex_Element_Activation.cs
+2025-10-28 22:18:50,987 - INFO - STEP 2: File read successfully - 160 lines
+2025-10-28 22:18:50,987 - INFO - STEP 3: Searching for main flow methods in PowerUp_Duplex_Element_Activation.cs
+2025-10-28 22:18:50,988 - INFO - Found main flow method: DuplexElementActivationMainFlow (lines 56-59)
+2025-10-28 22:18:50,988 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:18:50,988 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:18:50,988 - INFO - STEP 5.1: Searching XML summary for method DuplexElementActivationMainFlow
+2025-10-28 22:18:50,989 - INFO - STEP 5.1: XML summary FOUND for DuplexElementActivationMainFlow
+2025-10-28 22:18:50,989 - INFO - STEP 6.1: Requesting Gemini rewrite for method DuplexElementActivationMainFlow (lines 55-60)
+2025-10-28 22:18:50,989 - INFO - STEP 6.1: About to call Gemini API for DuplexElementActivationMainFlow
+2025-10-28 22:18:50,989 - INFO - Requesting Gemini rewrite for DuplexElementActivationMainFlow (attempt 1/3)...
+2025-10-28 22:18:50,989 - INFO - Creating thread for Gemini request - DuplexElementActivationMainFlow
+2025-10-28 22:18:50,989 - INFO - Starting thread for Gemini request - DuplexElementActivationMainFlow
+2025-10-28 22:18:50,990 - INFO - Starting Gemini API call for DuplexElementActivationMainFlow
+2025-10-28 22:18:50,990 - INFO - Waiting for thread completion (60s timeout) - DuplexElementActivationMainFlow
+2025-10-28 22:19:08,182 - INFO - Gemini API call completed for DuplexElementActivationMainFlow
+2025-10-28 22:19:08,183 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:19:08,183 - INFO - STEP 6.1: Gemini API call completed for DuplexElementActivationMainFlow
+2025-10-28 22:19:08,183 - INFO - Replaced method DuplexElementActivationMainFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Duplex_Element_Activation.cs
+2025-10-28 22:19:08,184 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Duplex_Element_Activation.cs: 1 methods replaced
+2025-10-28 22:19:08,184 - INFO - File 13 SUCCESSFULLY MODIFIED: PowerUp_Duplex_Element_Activation.cs
+2025-10-28 22:19:08,185 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:19:09,185 - INFO - ===== FINISHED PROCESSING FILE 13/43 =====
+2025-10-28 22:19:09,185 - INFO - ===== STARTING PROCESSING FILE 14/43: PowerUp_EncoderCalibration.cs =====
+2025-10-28 22:19:09,185 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_EncoderCalibration.cs
+2025-10-28 22:19:09,186 - INFO - STEP 1: Reading file PowerUp_EncoderCalibration.cs
+2025-10-28 22:19:09,187 - INFO - STEP 2: File read successfully - 128 lines
+2025-10-28 22:19:09,187 - INFO - STEP 3: Searching for main flow methods in PowerUp_EncoderCalibration.cs
+2025-10-28 22:19:09,188 - INFO - Found main flow method: PipCalibrationFullFlowAOP (lines 57-61)
+2025-10-28 22:19:09,188 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:19:09,188 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:19:09,188 - INFO - STEP 5.1: Searching XML summary for method PipCalibrationFullFlowAOP
+2025-10-28 22:19:09,189 - INFO - STEP 5.1: XML summary FOUND for PipCalibrationFullFlowAOP
+2025-10-28 22:19:09,190 - INFO - STEP 6.1: Requesting Gemini rewrite for method PipCalibrationFullFlowAOP (lines 56-62)
+2025-10-28 22:19:09,190 - INFO - STEP 6.1: About to call Gemini API for PipCalibrationFullFlowAOP
+2025-10-28 22:19:09,190 - INFO - Requesting Gemini rewrite for PipCalibrationFullFlowAOP (attempt 1/3)...
+2025-10-28 22:19:09,190 - INFO - Creating thread for Gemini request - PipCalibrationFullFlowAOP
+2025-10-28 22:19:09,190 - INFO - Starting thread for Gemini request - PipCalibrationFullFlowAOP
+2025-10-28 22:19:09,191 - INFO - Starting Gemini API call for PipCalibrationFullFlowAOP
+2025-10-28 22:19:09,191 - INFO - Waiting for thread completion (60s timeout) - PipCalibrationFullFlowAOP
+2025-10-28 22:19:17,058 - INFO - Gemini API call completed for PipCalibrationFullFlowAOP
+2025-10-28 22:19:17,059 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:19:17,059 - INFO - STEP 6.1: Gemini API call completed for PipCalibrationFullFlowAOP
+2025-10-28 22:19:17,059 - INFO - Replaced method PipCalibrationFullFlowAOP in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_EncoderCalibration.cs
+2025-10-28 22:19:17,060 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_EncoderCalibration.cs: 1 methods replaced
+2025-10-28 22:19:17,060 - INFO - File 14 SUCCESSFULLY MODIFIED: PowerUp_EncoderCalibration.cs
+2025-10-28 22:19:17,060 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:19:18,061 - INFO - ===== FINISHED PROCESSING FILE 14/43 =====
+2025-10-28 22:19:18,061 - INFO - ===== STARTING PROCESSING FILE 15/43: PowerUp_EVR_Automatic_Test.cs =====
+2025-10-28 22:19:18,061 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_EVR_Automatic_Test.cs
+2025-10-28 22:19:18,061 - INFO - STEP 1: Reading file PowerUp_EVR_Automatic_Test.cs
+2025-10-28 22:19:18,063 - INFO - STEP 2: File read successfully - 88 lines
+2025-10-28 22:19:18,063 - INFO - STEP 3: Searching for main flow methods in PowerUp_EVR_Automatic_Test.cs
+2025-10-28 22:19:18,063 - INFO - Found main flow method: EVRCalibrationFullFlowAOP (lines 57-66)
+2025-10-28 22:19:18,063 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:19:18,063 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:19:18,064 - INFO - STEP 5.1: Searching XML summary for method EVRCalibrationFullFlowAOP
+2025-10-28 22:19:18,064 - INFO - STEP 5.1: XML summary FOUND for EVRCalibrationFullFlowAOP
+2025-10-28 22:19:18,064 - INFO - STEP 6.1: Requesting Gemini rewrite for method EVRCalibrationFullFlowAOP (lines 56-67)
+2025-10-28 22:19:18,065 - INFO - STEP 6.1: About to call Gemini API for EVRCalibrationFullFlowAOP
+2025-10-28 22:19:18,065 - INFO - Requesting Gemini rewrite for EVRCalibrationFullFlowAOP (attempt 1/3)...
+2025-10-28 22:19:18,065 - INFO - Creating thread for Gemini request - EVRCalibrationFullFlowAOP
+2025-10-28 22:19:18,065 - INFO - Starting thread for Gemini request - EVRCalibrationFullFlowAOP
+2025-10-28 22:19:18,065 - INFO - Starting Gemini API call for EVRCalibrationFullFlowAOP
+2025-10-28 22:19:18,065 - INFO - Waiting for thread completion (60s timeout) - EVRCalibrationFullFlowAOP
+2025-10-28 22:19:31,354 - INFO - Gemini API call completed for EVRCalibrationFullFlowAOP
+2025-10-28 22:19:31,355 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:19:31,355 - INFO - STEP 6.1: Gemini API call completed for EVRCalibrationFullFlowAOP
+2025-10-28 22:19:31,355 - INFO - Replaced method EVRCalibrationFullFlowAOP in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_EVR_Automatic_Test.cs
+2025-10-28 22:19:31,356 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_EVR_Automatic_Test.cs: 1 methods replaced
+2025-10-28 22:19:31,356 - INFO - File 15 SUCCESSFULLY MODIFIED: PowerUp_EVR_Automatic_Test.cs
+2025-10-28 22:19:31,356 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:19:32,356 - INFO - ===== FINISHED PROCESSING FILE 15/43 =====
+2025-10-28 22:19:32,357 - INFO - ===== STARTING PROCESSING FILE 16/43: PowerUp_EVR_Elements_Activation.cs =====
+2025-10-28 22:19:32,357 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_EVR_Elements_Activation.cs
+2025-10-28 22:19:32,357 - INFO - STEP 1: Reading file PowerUp_EVR_Elements_Activation.cs
+2025-10-28 22:19:32,358 - INFO - STEP 2: File read successfully - 108 lines
+2025-10-28 22:19:32,358 - INFO - STEP 3: Searching for main flow methods in PowerUp_EVR_Elements_Activation.cs
+2025-10-28 22:19:32,358 - INFO - Found main flow method: EVRElementsFullFlowAOP (lines 57-68)
+2025-10-28 22:19:32,359 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:19:32,359 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:19:32,359 - INFO - STEP 5.1: Searching XML summary for method EVRElementsFullFlowAOP
+2025-10-28 22:19:32,359 - INFO - STEP 5.1: XML summary FOUND for EVRElementsFullFlowAOP
+2025-10-28 22:19:32,359 - INFO - STEP 6.1: Requesting Gemini rewrite for method EVRElementsFullFlowAOP (lines 56-69)
+2025-10-28 22:19:32,360 - INFO - STEP 6.1: About to call Gemini API for EVRElementsFullFlowAOP
+2025-10-28 22:19:32,360 - INFO - Requesting Gemini rewrite for EVRElementsFullFlowAOP (attempt 1/3)...
+2025-10-28 22:19:32,360 - INFO - Creating thread for Gemini request - EVRElementsFullFlowAOP
+2025-10-28 22:19:32,360 - INFO - Starting thread for Gemini request - EVRElementsFullFlowAOP
+2025-10-28 22:19:32,360 - INFO - Starting Gemini API call for EVRElementsFullFlowAOP
+2025-10-28 22:19:32,360 - INFO - Waiting for thread completion (60s timeout) - EVRElementsFullFlowAOP
+2025-10-28 22:19:48,197 - INFO - Gemini API call completed for EVRElementsFullFlowAOP
+2025-10-28 22:19:48,198 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:19:48,198 - INFO - STEP 6.1: Gemini API call completed for EVRElementsFullFlowAOP
+2025-10-28 22:19:48,199 - INFO - Replaced method EVRElementsFullFlowAOP in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_EVR_Elements_Activation.cs
+2025-10-28 22:19:48,200 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_EVR_Elements_Activation.cs: 1 methods replaced
+2025-10-28 22:19:48,200 - INFO - File 16 SUCCESSFULLY MODIFIED: PowerUp_EVR_Elements_Activation.cs
+2025-10-28 22:19:48,200 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:19:49,201 - INFO - ===== FINISHED PROCESSING FILE 16/43 =====
+2025-10-28 22:19:49,201 - INFO - ===== STARTING PROCESSING FILE 17/43: PowerUp_Exit_Unit_Elements_Activation.cs =====
+2025-10-28 22:19:49,201 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Exit_Unit_Elements_Activation.cs
+2025-10-28 22:19:49,201 - INFO - STEP 1: Reading file PowerUp_Exit_Unit_Elements_Activation.cs
+2025-10-28 22:19:49,202 - INFO - STEP 2: File read successfully - 97 lines
+2025-10-28 22:19:49,203 - INFO - STEP 3: Searching for main flow methods in PowerUp_Exit_Unit_Elements_Activation.cs
+2025-10-28 22:19:49,203 - INFO - Found main flow method: ExitElementsFullFlowAOP (lines 54-60)
+2025-10-28 22:19:49,203 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:19:49,203 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:19:49,203 - INFO - STEP 5.1: Searching XML summary for method ExitElementsFullFlowAOP
+2025-10-28 22:19:49,204 - INFO - STEP 5.1: XML summary FOUND for ExitElementsFullFlowAOP
+2025-10-28 22:19:49,204 - INFO - STEP 6.1: Requesting Gemini rewrite for method ExitElementsFullFlowAOP (lines 53-61)
+2025-10-28 22:19:49,204 - INFO - STEP 6.1: About to call Gemini API for ExitElementsFullFlowAOP
+2025-10-28 22:19:49,205 - INFO - Requesting Gemini rewrite for ExitElementsFullFlowAOP (attempt 1/3)...
+2025-10-28 22:19:49,205 - INFO - Creating thread for Gemini request - ExitElementsFullFlowAOP
+2025-10-28 22:19:49,205 - INFO - Starting thread for Gemini request - ExitElementsFullFlowAOP
+2025-10-28 22:19:49,205 - INFO - Starting Gemini API call for ExitElementsFullFlowAOP
+2025-10-28 22:19:49,205 - INFO - Waiting for thread completion (60s timeout) - ExitElementsFullFlowAOP
+2025-10-28 22:20:00,576 - INFO - Gemini API call completed for ExitElementsFullFlowAOP
+2025-10-28 22:20:00,577 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:20:00,578 - INFO - STEP 6.1: Gemini API call completed for ExitElementsFullFlowAOP
+2025-10-28 22:20:00,578 - INFO - Replaced method ExitElementsFullFlowAOP in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Exit_Unit_Elements_Activation.cs
+2025-10-28 22:20:00,579 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Exit_Unit_Elements_Activation.cs: 1 methods replaced
+2025-10-28 22:20:00,580 - INFO - File 17 SUCCESSFULLY MODIFIED: PowerUp_Exit_Unit_Elements_Activation.cs
+2025-10-28 22:20:00,580 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:20:01,581 - INFO - ===== FINISHED PROCESSING FILE 17/43 =====
+2025-10-28 22:20:01,581 - INFO - ===== STARTING PROCESSING FILE 18/43: PowerUp_Get_Ready_Bypass_Removal.cs =====
+2025-10-28 22:20:01,581 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Get_Ready_Bypass_Removal.cs
+2025-10-28 22:20:01,582 - INFO - STEP 1: Reading file PowerUp_Get_Ready_Bypass_Removal.cs
+2025-10-28 22:20:01,583 - INFO - STEP 2: File read successfully - 84 lines
+2025-10-28 22:20:01,583 - INFO - STEP 3: Searching for main flow methods in PowerUp_Get_Ready_Bypass_Removal.cs
+2025-10-28 22:20:01,583 - INFO - Found main flow method: GetReadyBypassRemoval_MainFlow (lines 45-46)
+2025-10-28 22:20:01,583 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:20:01,583 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:20:01,584 - INFO - STEP 5.1: Searching XML summary for method GetReadyBypassRemoval_MainFlow
+2025-10-28 22:20:01,584 - INFO - STEP 5.1: XML summary FOUND for GetReadyBypassRemoval_MainFlow
+2025-10-28 22:20:01,585 - INFO - STEP 6.1: Requesting Gemini rewrite for method GetReadyBypassRemoval_MainFlow (lines 44-47)
+2025-10-28 22:20:01,585 - INFO - STEP 6.1: About to call Gemini API for GetReadyBypassRemoval_MainFlow
+2025-10-28 22:20:01,585 - INFO - Requesting Gemini rewrite for GetReadyBypassRemoval_MainFlow (attempt 1/3)...
+2025-10-28 22:20:01,585 - INFO - Creating thread for Gemini request - GetReadyBypassRemoval_MainFlow
+2025-10-28 22:20:01,585 - INFO - Starting thread for Gemini request - GetReadyBypassRemoval_MainFlow
+2025-10-28 22:20:01,586 - INFO - Starting Gemini API call for GetReadyBypassRemoval_MainFlow
+2025-10-28 22:20:01,586 - INFO - Waiting for thread completion (60s timeout) - GetReadyBypassRemoval_MainFlow
+2025-10-28 22:20:06,394 - INFO - Gemini API call completed for GetReadyBypassRemoval_MainFlow
+2025-10-28 22:20:06,395 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:20:06,395 - INFO - STEP 6.1: Gemini API call completed for GetReadyBypassRemoval_MainFlow
+2025-10-28 22:20:06,395 - INFO - Replaced method GetReadyBypassRemoval_MainFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Get_Ready_Bypass_Removal.cs
+2025-10-28 22:20:06,396 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Get_Ready_Bypass_Removal.cs: 1 methods replaced
+2025-10-28 22:20:06,396 - INFO - File 18 SUCCESSFULLY MODIFIED: PowerUp_Get_Ready_Bypass_Removal.cs
+2025-10-28 22:20:06,396 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:20:07,396 - INFO - ===== FINISHED PROCESSING FILE 18/43 =====
+2025-10-28 22:20:07,397 - INFO - ===== STARTING PROCESSING FILE 19/43: PowerUp_Get_Ready_Process.cs =====
+2025-10-28 22:20:07,397 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Get_Ready_Process.cs
+2025-10-28 22:20:07,397 - INFO - STEP 1: Reading file PowerUp_Get_Ready_Process.cs
+2025-10-28 22:20:07,399 - INFO - STEP 2: File read successfully - 257 lines
+2025-10-28 22:20:07,399 - INFO - STEP 3: Searching for main flow methods in PowerUp_Get_Ready_Process.cs
+2025-10-28 22:20:07,405 - INFO - Found main flow method: GetReadyProcessMainFlow (lines 77-80)
+2025-10-28 22:20:07,406 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:20:07,406 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:20:07,406 - INFO - STEP 5.1: Searching XML summary for method GetReadyProcessMainFlow
+2025-10-28 22:20:07,407 - INFO - STEP 5.1: XML summary FOUND for GetReadyProcessMainFlow
+2025-10-28 22:20:07,407 - INFO - STEP 6.1: Requesting Gemini rewrite for method GetReadyProcessMainFlow (lines 76-81)
+2025-10-28 22:20:07,407 - INFO - STEP 6.1: About to call Gemini API for GetReadyProcessMainFlow
+2025-10-28 22:20:07,407 - INFO - Requesting Gemini rewrite for GetReadyProcessMainFlow (attempt 1/3)...
+2025-10-28 22:20:07,407 - INFO - Creating thread for Gemini request - GetReadyProcessMainFlow
+2025-10-28 22:20:07,407 - INFO - Starting thread for Gemini request - GetReadyProcessMainFlow
+2025-10-28 22:20:07,408 - INFO - Starting Gemini API call for GetReadyProcessMainFlow
+2025-10-28 22:20:07,408 - INFO - Waiting for thread completion (60s timeout) - GetReadyProcessMainFlow
+2025-10-28 22:20:20,614 - INFO - Gemini API call completed for GetReadyProcessMainFlow
+2025-10-28 22:20:20,615 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:20:20,615 - INFO - STEP 6.1: Gemini API call completed for GetReadyProcessMainFlow
+2025-10-28 22:20:20,616 - INFO - Replaced method GetReadyProcessMainFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Get_Ready_Process.cs
+2025-10-28 22:20:20,616 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Get_Ready_Process.cs: 1 methods replaced
+2025-10-28 22:20:20,617 - INFO - File 19 SUCCESSFULLY MODIFIED: PowerUp_Get_Ready_Process.cs
+2025-10-28 22:20:20,617 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:20:21,618 - INFO - ===== FINISHED PROCESSING FILE 19/43 =====
+2025-10-28 22:20:21,618 - INFO - ===== STARTING PROCESSING FILE 20/43: PowerUp_Heating_Lamps_Internal _And_External_Automatic_Test.cs =====
+2025-10-28 22:20:21,618 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Heating_Lamps_Internal _And_External_Automatic_Test.cs
+2025-10-28 22:20:21,618 - INFO - STEP 1: Reading file PowerUp_Heating_Lamps_Internal _And_External_Automatic_Test.cs
+2025-10-28 22:20:21,620 - INFO - STEP 2: File read successfully - 153 lines
+2025-10-28 22:20:21,620 - INFO - STEP 3: Searching for main flow methods in PowerUp_Heating_Lamps_Internal _And_External_Automatic_Test.cs
+2025-10-28 22:20:21,620 - INFO - Found main flow method: HeatingLampsInternalAndExternalMainFlow (lines 62-65)
+2025-10-28 22:20:21,621 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:20:21,621 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:20:21,622 - INFO - STEP 5.1: Searching XML summary for method HeatingLampsInternalAndExternalMainFlow
+2025-10-28 22:20:21,623 - INFO - STEP 5.1: XML summary FOUND for HeatingLampsInternalAndExternalMainFlow
+2025-10-28 22:20:21,623 - INFO - STEP 6.1: Requesting Gemini rewrite for method HeatingLampsInternalAndExternalMainFlow (lines 61-66)
+2025-10-28 22:20:21,623 - INFO - STEP 6.1: About to call Gemini API for HeatingLampsInternalAndExternalMainFlow
+2025-10-28 22:20:21,623 - INFO - Requesting Gemini rewrite for HeatingLampsInternalAndExternalMainFlow (attempt 1/3)...
+2025-10-28 22:20:21,623 - INFO - Creating thread for Gemini request - HeatingLampsInternalAndExternalMainFlow
+2025-10-28 22:20:21,624 - INFO - Starting thread for Gemini request - HeatingLampsInternalAndExternalMainFlow
+2025-10-28 22:20:21,624 - INFO - Starting Gemini API call for HeatingLampsInternalAndExternalMainFlow
+2025-10-28 22:20:21,624 - INFO - Waiting for thread completion (60s timeout) - HeatingLampsInternalAndExternalMainFlow
+2025-10-28 22:20:30,986 - INFO - Gemini API call completed for HeatingLampsInternalAndExternalMainFlow
+2025-10-28 22:20:30,986 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:20:30,986 - INFO - STEP 6.1: Gemini API call completed for HeatingLampsInternalAndExternalMainFlow
+2025-10-28 22:20:30,987 - INFO - Replaced method HeatingLampsInternalAndExternalMainFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Heating_Lamps_Internal _And_External_Automatic_Test.cs
+2025-10-28 22:20:30,987 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Heating_Lamps_Internal _And_External_Automatic_Test.cs: 1 methods replaced
+2025-10-28 22:20:30,987 - INFO - File 20 SUCCESSFULLY MODIFIED: PowerUp_Heating_Lamps_Internal _And_External_Automatic_Test.cs
+2025-10-28 22:20:30,988 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:20:31,988 - INFO - ===== FINISHED PROCESSING FILE 20/43 =====
+2025-10-28 22:20:31,989 - INFO - ===== STARTING PROCESSING FILE 21/43: PowerUp_Heating_Lamp_Automatic_Test.cs =====
+2025-10-28 22:20:31,989 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Heating_Lamp_Automatic_Test.cs
+2025-10-28 22:20:31,989 - INFO - STEP 1: Reading file PowerUp_Heating_Lamp_Automatic_Test.cs
+2025-10-28 22:20:31,990 - INFO - STEP 2: File read successfully - 109 lines
+2025-10-28 22:20:31,990 - INFO - STEP 3: Searching for main flow methods in PowerUp_Heating_Lamp_Automatic_Test.cs
+2025-10-28 22:20:31,991 - INFO - Found main flow method: HeatingLampAutomaticTestMainFlow (lines 58-61)
+2025-10-28 22:20:31,991 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:20:31,991 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:20:31,991 - INFO - STEP 5.1: Searching XML summary for method HeatingLampAutomaticTestMainFlow
+2025-10-28 22:20:31,992 - INFO - STEP 5.1: XML summary FOUND for HeatingLampAutomaticTestMainFlow
+2025-10-28 22:20:31,992 - INFO - STEP 6.1: Requesting Gemini rewrite for method HeatingLampAutomaticTestMainFlow (lines 57-62)
+2025-10-28 22:20:31,992 - INFO - STEP 6.1: About to call Gemini API for HeatingLampAutomaticTestMainFlow
+2025-10-28 22:20:31,992 - INFO - Requesting Gemini rewrite for HeatingLampAutomaticTestMainFlow (attempt 1/3)...
+2025-10-28 22:20:31,992 - INFO - Creating thread for Gemini request - HeatingLampAutomaticTestMainFlow
+2025-10-28 22:20:31,993 - INFO - Starting thread for Gemini request - HeatingLampAutomaticTestMainFlow
+2025-10-28 22:20:31,993 - INFO - Starting Gemini API call for HeatingLampAutomaticTestMainFlow
+2025-10-28 22:20:31,993 - INFO - Waiting for thread completion (60s timeout) - HeatingLampAutomaticTestMainFlow
+2025-10-28 22:20:43,311 - INFO - Gemini API call completed for HeatingLampAutomaticTestMainFlow
+2025-10-28 22:20:43,312 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:20:43,312 - INFO - STEP 6.1: Gemini API call completed for HeatingLampAutomaticTestMainFlow
+2025-10-28 22:20:43,312 - INFO - Replaced method HeatingLampAutomaticTestMainFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Heating_Lamp_Automatic_Test.cs
+2025-10-28 22:20:43,313 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Heating_Lamp_Automatic_Test.cs: 1 methods replaced
+2025-10-28 22:20:43,314 - INFO - File 21 SUCCESSFULLY MODIFIED: PowerUp_Heating_Lamp_Automatic_Test.cs
+2025-10-28 22:20:43,314 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:20:44,314 - INFO - ===== FINISHED PROCESSING FILE 21/43 =====
+2025-10-28 22:20:44,315 - INFO - ===== STARTING PROCESSING FILE 22/43: PowerUp_IFR_Substrate_Sensor_Element_Activation.cs =====
+2025-10-28 22:20:44,315 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_IFR_Substrate_Sensor_Element_Activation.cs
+2025-10-28 22:20:44,315 - INFO - STEP 1: Reading file PowerUp_IFR_Substrate_Sensor_Element_Activation.cs
+2025-10-28 22:20:44,316 - INFO - STEP 2: File read successfully - 129 lines
+2025-10-28 22:20:44,316 - INFO - STEP 3: Searching for main flow methods in PowerUp_IFR_Substrate_Sensor_Element_Activation.cs
+2025-10-28 22:20:44,317 - INFO - Found main flow method: IFRmainFlow (lines 63-65)
+2025-10-28 22:20:44,317 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:20:44,318 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:20:44,318 - INFO - STEP 5.1: Searching XML summary for method IFRmainFlow
+2025-10-28 22:20:44,319 - INFO - STEP 5.1: XML summary FOUND for IFRmainFlow
+2025-10-28 22:20:44,319 - INFO - STEP 6.1: Requesting Gemini rewrite for method IFRmainFlow (lines 62-66)
+2025-10-28 22:20:44,319 - INFO - STEP 6.1: About to call Gemini API for IFRmainFlow
+2025-10-28 22:20:44,320 - INFO - Requesting Gemini rewrite for IFRmainFlow (attempt 1/3)...
+2025-10-28 22:20:44,320 - INFO - Creating thread for Gemini request - IFRmainFlow
+2025-10-28 22:20:44,321 - INFO - Starting thread for Gemini request - IFRmainFlow
+2025-10-28 22:20:44,321 - INFO - Starting Gemini API call for IFRmainFlow
+2025-10-28 22:20:44,322 - INFO - Waiting for thread completion (60s timeout) - IFRmainFlow
+2025-10-28 22:20:53,219 - INFO - Gemini API call completed for IFRmainFlow
+2025-10-28 22:20:53,220 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:20:53,220 - INFO - STEP 6.1: Gemini API call completed for IFRmainFlow
+2025-10-28 22:20:53,220 - INFO - Replaced method IFRmainFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_IFR_Substrate_Sensor_Element_Activation.cs
+2025-10-28 22:20:53,221 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_IFR_Substrate_Sensor_Element_Activation.cs: 1 methods replaced
+2025-10-28 22:20:53,221 - INFO - File 22 SUCCESSFULLY MODIFIED: PowerUp_IFR_Substrate_Sensor_Element_Activation.cs
+2025-10-28 22:20:53,221 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:20:54,222 - INFO - ===== FINISHED PROCESSING FILE 22/43 =====
+2025-10-28 22:20:54,223 - INFO - ===== STARTING PROCESSING FILE 23/43: PowerUp_Impression_Engage_Automatic_Test.cs =====
+2025-10-28 22:20:54,223 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Impression_Engage_Automatic_Test.cs
+2025-10-28 22:20:54,223 - INFO - STEP 1: Reading file PowerUp_Impression_Engage_Automatic_Test.cs
+2025-10-28 22:20:54,225 - INFO - STEP 2: File read successfully - 94 lines
+2025-10-28 22:20:54,225 - INFO - STEP 3: Searching for main flow methods in PowerUp_Impression_Engage_Automatic_Test.cs
+2025-10-28 22:20:54,225 - INFO - Found main flow method: ImpressionEngageAutomaticTestMainFlow (lines 52-55)
+2025-10-28 22:20:54,226 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:20:54,226 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:20:54,226 - INFO - STEP 5.1: Searching XML summary for method ImpressionEngageAutomaticTestMainFlow
+2025-10-28 22:20:54,227 - INFO - STEP 5.1: XML summary FOUND for ImpressionEngageAutomaticTestMainFlow
+2025-10-28 22:20:54,227 - INFO - STEP 6.1: Requesting Gemini rewrite for method ImpressionEngageAutomaticTestMainFlow (lines 51-56)
+2025-10-28 22:20:54,227 - INFO - STEP 6.1: About to call Gemini API for ImpressionEngageAutomaticTestMainFlow
+2025-10-28 22:20:54,227 - INFO - Requesting Gemini rewrite for ImpressionEngageAutomaticTestMainFlow (attempt 1/3)...
+2025-10-28 22:20:54,227 - INFO - Creating thread for Gemini request - ImpressionEngageAutomaticTestMainFlow
+2025-10-28 22:20:54,227 - INFO - Starting thread for Gemini request - ImpressionEngageAutomaticTestMainFlow
+2025-10-28 22:20:54,228 - INFO - Starting Gemini API call for ImpressionEngageAutomaticTestMainFlow
+2025-10-28 22:20:54,228 - INFO - Waiting for thread completion (60s timeout) - ImpressionEngageAutomaticTestMainFlow
+2025-10-28 22:21:09,664 - INFO - Gemini API call completed for ImpressionEngageAutomaticTestMainFlow
+2025-10-28 22:21:09,665 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:21:09,666 - INFO - STEP 6.1: Gemini API call completed for ImpressionEngageAutomaticTestMainFlow
+2025-10-28 22:21:09,666 - INFO - Replaced method ImpressionEngageAutomaticTestMainFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Impression_Engage_Automatic_Test.cs
+2025-10-28 22:21:09,667 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Impression_Engage_Automatic_Test.cs: 1 methods replaced
+2025-10-28 22:21:09,668 - INFO - File 23 SUCCESSFULLY MODIFIED: PowerUp_Impression_Engage_Automatic_Test.cs
+2025-10-28 22:21:09,668 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:21:10,669 - INFO - ===== FINISHED PROCESSING FILE 23/43 =====
+2025-10-28 22:21:10,669 - INFO - ===== STARTING PROCESSING FILE 24/43: PowerUp_Impression_Engage_Element_Activation.cs =====
+2025-10-28 22:21:10,669 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Impression_Engage_Element_Activation.cs
+2025-10-28 22:21:10,669 - INFO - STEP 1: Reading file PowerUp_Impression_Engage_Element_Activation.cs
+2025-10-28 22:21:10,670 - INFO - STEP 2: File read successfully - 114 lines
+2025-10-28 22:21:10,671 - INFO - STEP 3: Searching for main flow methods in PowerUp_Impression_Engage_Element_Activation.cs
+2025-10-28 22:21:10,671 - INFO - Found main flow method: ImpressionEngageElementActivationMainFlow (lines 62-65)
+2025-10-28 22:21:10,672 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:21:10,672 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:21:10,672 - INFO - STEP 5.1: Searching XML summary for method ImpressionEngageElementActivationMainFlow
+2025-10-28 22:21:10,673 - INFO - STEP 5.1: XML summary FOUND for ImpressionEngageElementActivationMainFlow
+2025-10-28 22:21:10,673 - INFO - STEP 6.1: Requesting Gemini rewrite for method ImpressionEngageElementActivationMainFlow (lines 61-66)
+2025-10-28 22:21:10,673 - INFO - STEP 6.1: About to call Gemini API for ImpressionEngageElementActivationMainFlow
+2025-10-28 22:21:10,673 - INFO - Requesting Gemini rewrite for ImpressionEngageElementActivationMainFlow (attempt 1/3)...
+2025-10-28 22:21:10,673 - INFO - Creating thread for Gemini request - ImpressionEngageElementActivationMainFlow
+2025-10-28 22:21:10,673 - INFO - Starting thread for Gemini request - ImpressionEngageElementActivationMainFlow
+2025-10-28 22:21:10,674 - INFO - Starting Gemini API call for ImpressionEngageElementActivationMainFlow
+2025-10-28 22:21:10,674 - INFO - Waiting for thread completion (60s timeout) - ImpressionEngageElementActivationMainFlow
+2025-10-28 22:21:16,546 - INFO - Gemini API call completed for ImpressionEngageElementActivationMainFlow
+2025-10-28 22:21:16,546 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:21:16,547 - INFO - STEP 6.1: Gemini API call completed for ImpressionEngageElementActivationMainFlow
+2025-10-28 22:21:16,547 - INFO - Replaced method ImpressionEngageElementActivationMainFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Impression_Engage_Element_Activation.cs
+2025-10-28 22:21:16,548 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Impression_Engage_Element_Activation.cs: 1 methods replaced
+2025-10-28 22:21:16,548 - INFO - File 24 SUCCESSFULLY MODIFIED: PowerUp_Impression_Engage_Element_Activation.cs
+2025-10-28 22:21:16,548 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:21:17,549 - INFO - ===== FINISHED PROCESSING FILE 24/43 =====
+2025-10-28 22:21:17,549 - INFO - ===== STARTING PROCESSING FILE 25/43: PowerUp_IMP_Drum_Heating_Element_Activation.cs =====
+2025-10-28 22:21:17,549 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_IMP_Drum_Heating_Element_Activation.cs
+2025-10-28 22:21:17,549 - INFO - STEP 1: Reading file PowerUp_IMP_Drum_Heating_Element_Activation.cs
+2025-10-28 22:21:17,550 - INFO - STEP 2: File read successfully - 124 lines
+2025-10-28 22:21:17,550 - INFO - STEP 3: Searching for main flow methods in PowerUp_IMP_Drum_Heating_Element_Activation.cs
+2025-10-28 22:21:17,550 - INFO - Found main flow method: IMPDrumHeatingMainFlow (lines 61-63)
+2025-10-28 22:21:17,551 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:21:17,551 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:21:17,551 - INFO - STEP 5.1: Searching XML summary for method IMPDrumHeatingMainFlow
+2025-10-28 22:21:17,552 - INFO - STEP 5.1: XML summary FOUND for IMPDrumHeatingMainFlow
+2025-10-28 22:21:17,552 - INFO - STEP 6.1: Requesting Gemini rewrite for method IMPDrumHeatingMainFlow (lines 60-64)
+2025-10-28 22:21:17,552 - INFO - STEP 6.1: About to call Gemini API for IMPDrumHeatingMainFlow
+2025-10-28 22:21:17,552 - INFO - Requesting Gemini rewrite for IMPDrumHeatingMainFlow (attempt 1/3)...
+2025-10-28 22:21:17,552 - INFO - Creating thread for Gemini request - IMPDrumHeatingMainFlow
+2025-10-28 22:21:17,552 - INFO - Starting thread for Gemini request - IMPDrumHeatingMainFlow
+2025-10-28 22:21:17,553 - INFO - Starting Gemini API call for IMPDrumHeatingMainFlow
+2025-10-28 22:21:17,553 - INFO - Waiting for thread completion (60s timeout) - IMPDrumHeatingMainFlow
+2025-10-28 22:21:25,586 - INFO - Gemini API call completed for IMPDrumHeatingMainFlow
+2025-10-28 22:21:25,587 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:21:25,587 - INFO - STEP 6.1: Gemini API call completed for IMPDrumHeatingMainFlow
+2025-10-28 22:21:25,587 - INFO - Replaced method IMPDrumHeatingMainFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_IMP_Drum_Heating_Element_Activation.cs
+2025-10-28 22:21:25,588 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_IMP_Drum_Heating_Element_Activation.cs: 1 methods replaced
+2025-10-28 22:21:25,588 - INFO - File 25 SUCCESSFULLY MODIFIED: PowerUp_IMP_Drum_Heating_Element_Activation.cs
+2025-10-28 22:21:25,588 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:21:26,589 - INFO - ===== FINISHED PROCESSING FILE 25/43 =====
+2025-10-28 22:21:26,589 - INFO - ===== STARTING PROCESSING FILE 26/43: PowerUp_Ink_Flow_Calibration_Elements_Activation.cs =====
+2025-10-28 22:21:26,589 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Ink_Flow_Calibration_Elements_Activation.cs
+2025-10-28 22:21:26,589 - INFO - STEP 1: Reading file PowerUp_Ink_Flow_Calibration_Elements_Activation.cs
+2025-10-28 22:21:26,591 - INFO - STEP 2: File read successfully - 152 lines
+2025-10-28 22:21:26,591 - INFO - STEP 3: Searching for main flow methods in PowerUp_Ink_Flow_Calibration_Elements_Activation.cs
+2025-10-28 22:21:26,591 - INFO - Found main flow method: PowerUp_Ink_Flow_Calibration_Elements_Activation (lines 39-41)
+2025-10-28 22:21:26,592 - INFO - Found main flow method: InkFlowCalibrationMainFlow (lines 53-56)
+2025-10-28 22:21:26,592 - INFO - STEP 4: Found 2 main flow methods
+2025-10-28 22:21:26,592 - INFO - STEP 5: Replace flow mode enabled - processing 2 methods
+2025-10-28 22:21:26,592 - INFO - STEP 5.1: Searching XML summary for method InkFlowCalibrationMainFlow
+2025-10-28 22:21:26,593 - INFO - STEP 5.1: XML summary FOUND for InkFlowCalibrationMainFlow
+2025-10-28 22:21:26,593 - INFO - STEP 6.1: Requesting Gemini rewrite for method InkFlowCalibrationMainFlow (lines 52-57)
+2025-10-28 22:21:26,593 - INFO - STEP 6.1: About to call Gemini API for InkFlowCalibrationMainFlow
+2025-10-28 22:21:26,594 - INFO - Requesting Gemini rewrite for InkFlowCalibrationMainFlow (attempt 1/3)...
+2025-10-28 22:21:26,594 - INFO - Creating thread for Gemini request - InkFlowCalibrationMainFlow
+2025-10-28 22:21:26,594 - INFO - Starting thread for Gemini request - InkFlowCalibrationMainFlow
+2025-10-28 22:21:26,594 - INFO - Starting Gemini API call for InkFlowCalibrationMainFlow
+2025-10-28 22:21:26,594 - INFO - Waiting for thread completion (60s timeout) - InkFlowCalibrationMainFlow
+2025-10-28 22:21:39,551 - INFO - Gemini API call completed for InkFlowCalibrationMainFlow
+2025-10-28 22:21:39,552 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:21:39,552 - INFO - STEP 6.1: Gemini API call completed for InkFlowCalibrationMainFlow
+2025-10-28 22:21:39,552 - INFO - Replaced method InkFlowCalibrationMainFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Ink_Flow_Calibration_Elements_Activation.cs
+2025-10-28 22:21:39,552 - INFO - STEP 5.2: Searching XML summary for method PowerUp_Ink_Flow_Calibration_Elements_Activation
+2025-10-28 22:21:39,553 - INFO - STEP 5.2: XML summary FOUND for PowerUp_Ink_Flow_Calibration_Elements_Activation
+2025-10-28 22:21:39,553 - INFO - STEP 6.2: Requesting Gemini rewrite for method PowerUp_Ink_Flow_Calibration_Elements_Activation (lines 38-42)
+2025-10-28 22:21:39,553 - INFO - STEP 6.2: About to call Gemini API for PowerUp_Ink_Flow_Calibration_Elements_Activation
+2025-10-28 22:21:39,554 - INFO - Requesting Gemini rewrite for PowerUp_Ink_Flow_Calibration_Elements_Activation (attempt 1/3)...
+2025-10-28 22:21:39,554 - INFO - Creating thread for Gemini request - PowerUp_Ink_Flow_Calibration_Elements_Activation
+2025-10-28 22:21:39,554 - INFO - Starting thread for Gemini request - PowerUp_Ink_Flow_Calibration_Elements_Activation
+2025-10-28 22:21:39,554 - INFO - Starting Gemini API call for PowerUp_Ink_Flow_Calibration_Elements_Activation
+2025-10-28 22:21:39,554 - INFO - Waiting for thread completion (60s timeout) - PowerUp_Ink_Flow_Calibration_Elements_Activation
+2025-10-28 22:22:15,694 - INFO - Gemini API call completed for PowerUp_Ink_Flow_Calibration_Elements_Activation
+2025-10-28 22:22:15,695 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:22:15,695 - INFO - STEP 6.2: Gemini API call completed for PowerUp_Ink_Flow_Calibration_Elements_Activation
+2025-10-28 22:22:15,695 - INFO - Replaced method PowerUp_Ink_Flow_Calibration_Elements_Activation in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Ink_Flow_Calibration_Elements_Activation.cs
+2025-10-28 22:22:15,696 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Ink_Flow_Calibration_Elements_Activation.cs: 2 methods replaced
+2025-10-28 22:22:15,697 - INFO - File 26 SUCCESSFULLY MODIFIED: PowerUp_Ink_Flow_Calibration_Elements_Activation.cs
+2025-10-28 22:22:15,697 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:22:16,697 - INFO - ===== FINISHED PROCESSING FILE 26/43 =====
+2025-10-28 22:22:16,697 - INFO - ===== STARTING PROCESSING FILE 27/43: PowerUp_ITC_Automatic_Test.cs =====
+2025-10-28 22:22:16,698 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_ITC_Automatic_Test.cs
+2025-10-28 22:22:16,698 - INFO - STEP 1: Reading file PowerUp_ITC_Automatic_Test.cs
+2025-10-28 22:22:16,699 - INFO - STEP 2: File read successfully - 88 lines
+2025-10-28 22:22:16,700 - INFO - STEP 3: Searching for main flow methods in PowerUp_ITC_Automatic_Test.cs
+2025-10-28 22:22:16,700 - INFO - Found main flow method: ITCAutomaticMainFlow (lines 55-57)
+2025-10-28 22:22:16,700 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:22:16,700 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:22:16,700 - INFO - STEP 5.1: Searching XML summary for method ITCAutomaticMainFlow
+2025-10-28 22:22:16,701 - INFO - STEP 5.1: XML summary FOUND for ITCAutomaticMainFlow
+2025-10-28 22:22:16,702 - INFO - STEP 6.1: Requesting Gemini rewrite for method ITCAutomaticMainFlow (lines 54-58)
+2025-10-28 22:22:16,702 - INFO - STEP 6.1: About to call Gemini API for ITCAutomaticMainFlow
+2025-10-28 22:22:16,702 - INFO - Requesting Gemini rewrite for ITCAutomaticMainFlow (attempt 1/3)...
+2025-10-28 22:22:16,702 - INFO - Creating thread for Gemini request - ITCAutomaticMainFlow
+2025-10-28 22:22:16,702 - INFO - Starting thread for Gemini request - ITCAutomaticMainFlow
+2025-10-28 22:22:16,702 - INFO - Starting Gemini API call for ITCAutomaticMainFlow
+2025-10-28 22:22:16,702 - INFO - Waiting for thread completion (60s timeout) - ITCAutomaticMainFlow
+2025-10-28 22:22:22,868 - INFO - Gemini API call completed for ITCAutomaticMainFlow
+2025-10-28 22:22:22,869 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:22:22,869 - INFO - STEP 6.1: Gemini API call completed for ITCAutomaticMainFlow
+2025-10-28 22:22:22,869 - INFO - Replaced method ITCAutomaticMainFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_ITC_Automatic_Test.cs
+2025-10-28 22:22:22,870 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_ITC_Automatic_Test.cs: 1 methods replaced
+2025-10-28 22:22:22,870 - INFO - File 27 SUCCESSFULLY MODIFIED: PowerUp_ITC_Automatic_Test.cs
+2025-10-28 22:22:22,870 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:22:23,871 - INFO - ===== FINISHED PROCESSING FILE 27/43 =====
+2025-10-28 22:22:23,872 - INFO - ===== STARTING PROCESSING FILE 28/43: PowerUp_ITC_Element_Activation.cs =====
+2025-10-28 22:22:23,872 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_ITC_Element_Activation.cs
+2025-10-28 22:22:23,872 - INFO - STEP 1: Reading file PowerUp_ITC_Element_Activation.cs
+2025-10-28 22:22:23,874 - INFO - STEP 2: File read successfully - 169 lines
+2025-10-28 22:22:23,874 - INFO - STEP 3: Searching for main flow methods in PowerUp_ITC_Element_Activation.cs
+2025-10-28 22:22:23,874 - INFO - Found main flow method: ITCElementActivationMainFlow (lines 71-73)
+2025-10-28 22:22:23,875 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:22:23,875 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:22:23,875 - INFO - STEP 5.1: Searching XML summary for method ITCElementActivationMainFlow
+2025-10-28 22:22:23,876 - INFO - STEP 5.1: XML summary FOUND for ITCElementActivationMainFlow
+2025-10-28 22:22:23,877 - INFO - STEP 6.1: Requesting Gemini rewrite for method ITCElementActivationMainFlow (lines 70-74)
+2025-10-28 22:22:23,877 - INFO - STEP 6.1: About to call Gemini API for ITCElementActivationMainFlow
+2025-10-28 22:22:23,877 - INFO - Requesting Gemini rewrite for ITCElementActivationMainFlow (attempt 1/3)...
+2025-10-28 22:22:23,877 - INFO - Creating thread for Gemini request - ITCElementActivationMainFlow
+2025-10-28 22:22:23,878 - INFO - Starting thread for Gemini request - ITCElementActivationMainFlow
+2025-10-28 22:22:23,878 - INFO - Starting Gemini API call for ITCElementActivationMainFlow
+2025-10-28 22:22:23,878 - INFO - Waiting for thread completion (60s timeout) - ITCElementActivationMainFlow
+2025-10-28 22:22:51,213 - INFO - Gemini API call completed for ITCElementActivationMainFlow
+2025-10-28 22:22:51,214 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:22:51,215 - INFO - STEP 6.1: Gemini API call completed for ITCElementActivationMainFlow
+2025-10-28 22:22:51,215 - INFO - Replaced method ITCElementActivationMainFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_ITC_Element_Activation.cs
+2025-10-28 22:22:51,217 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_ITC_Element_Activation.cs: 1 methods replaced
+2025-10-28 22:22:51,217 - INFO - File 28 SUCCESSFULLY MODIFIED: PowerUp_ITC_Element_Activation.cs
+2025-10-28 22:22:51,217 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:22:52,218 - INFO - ===== FINISHED PROCESSING FILE 28/43 =====
+2025-10-28 22:22:52,218 - INFO - ===== STARTING PROCESSING FILE 29/43: PowerUp_JOS_Automatic_Test.cs =====
+2025-10-28 22:22:52,218 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_JOS_Automatic_Test.cs
+2025-10-28 22:22:52,219 - INFO - STEP 1: Reading file PowerUp_JOS_Automatic_Test.cs
+2025-10-28 22:22:52,220 - INFO - STEP 2: File read successfully - 124 lines
+2025-10-28 22:22:52,221 - INFO - STEP 3: Searching for main flow methods in PowerUp_JOS_Automatic_Test.cs
+2025-10-28 22:22:52,222 - INFO - Found main flow method: JOSCalibrationMainFlow (lines 62-64)
+2025-10-28 22:22:52,222 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:22:52,223 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:22:52,223 - INFO - STEP 5.1: Searching XML summary for method JOSCalibrationMainFlow
+2025-10-28 22:22:52,224 - INFO - STEP 5.1: XML summary FOUND for JOSCalibrationMainFlow
+2025-10-28 22:22:52,224 - INFO - STEP 6.1: Requesting Gemini rewrite for method JOSCalibrationMainFlow (lines 61-65)
+2025-10-28 22:22:52,225 - INFO - STEP 6.1: About to call Gemini API for JOSCalibrationMainFlow
+2025-10-28 22:22:52,225 - INFO - Requesting Gemini rewrite for JOSCalibrationMainFlow (attempt 1/3)...
+2025-10-28 22:22:52,225 - INFO - Creating thread for Gemini request - JOSCalibrationMainFlow
+2025-10-28 22:22:52,226 - INFO - Starting thread for Gemini request - JOSCalibrationMainFlow
+2025-10-28 22:22:52,226 - INFO - Starting Gemini API call for JOSCalibrationMainFlow
+2025-10-28 22:22:52,227 - INFO - Waiting for thread completion (60s timeout) - JOSCalibrationMainFlow
+2025-10-28 22:22:58,728 - INFO - Gemini API call completed for JOSCalibrationMainFlow
+2025-10-28 22:22:58,729 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:22:58,729 - INFO - STEP 6.1: Gemini API call completed for JOSCalibrationMainFlow
+2025-10-28 22:22:58,730 - INFO - Replaced method JOSCalibrationMainFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_JOS_Automatic_Test.cs
+2025-10-28 22:22:58,731 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_JOS_Automatic_Test.cs: 1 methods replaced
+2025-10-28 22:22:58,731 - INFO - File 29 SUCCESSFULLY MODIFIED: PowerUp_JOS_Automatic_Test.cs
+2025-10-28 22:22:58,732 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:22:59,732 - INFO - ===== FINISHED PROCESSING FILE 29/43 =====
+2025-10-28 22:22:59,733 - INFO - ===== STARTING PROCESSING FILE 30/43: PowerUp_Machine_Main_Motor.cs =====
+2025-10-28 22:22:59,733 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Machine_Main_Motor.cs
+2025-10-28 22:22:59,733 - INFO - STEP 1: Reading file PowerUp_Machine_Main_Motor.cs
+2025-10-28 22:22:59,734 - INFO - STEP 2: File read successfully - 125 lines
+2025-10-28 22:22:59,735 - INFO - STEP 3: Searching for main flow methods in PowerUp_Machine_Main_Motor.cs
+2025-10-28 22:22:59,735 - INFO - Found main flow method: MachineMainMotorMainFlow (lines 52-54)
+2025-10-28 22:22:59,735 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:22:59,735 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:22:59,735 - INFO - STEP 5.1: Searching XML summary for method MachineMainMotorMainFlow
+2025-10-28 22:22:59,736 - INFO - STEP 5.1: XML summary FOUND for MachineMainMotorMainFlow
+2025-10-28 22:22:59,736 - INFO - STEP 6.1: Requesting Gemini rewrite for method MachineMainMotorMainFlow (lines 51-55)
+2025-10-28 22:22:59,736 - INFO - STEP 6.1: About to call Gemini API for MachineMainMotorMainFlow
+2025-10-28 22:22:59,736 - INFO - Requesting Gemini rewrite for MachineMainMotorMainFlow (attempt 1/3)...
+2025-10-28 22:22:59,736 - INFO - Creating thread for Gemini request - MachineMainMotorMainFlow
+2025-10-28 22:22:59,737 - INFO - Starting thread for Gemini request - MachineMainMotorMainFlow
+2025-10-28 22:22:59,737 - INFO - Starting Gemini API call for MachineMainMotorMainFlow
+2025-10-28 22:22:59,737 - INFO - Waiting for thread completion (60s timeout) - MachineMainMotorMainFlow
+2025-10-28 22:23:10,514 - INFO - Gemini API call completed for MachineMainMotorMainFlow
+2025-10-28 22:23:10,514 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:23:10,515 - INFO - STEP 6.1: Gemini API call completed for MachineMainMotorMainFlow
+2025-10-28 22:23:10,515 - INFO - Replaced method MachineMainMotorMainFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Machine_Main_Motor.cs
+2025-10-28 22:23:10,516 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Machine_Main_Motor.cs: 1 methods replaced
+2025-10-28 22:23:10,516 - INFO - File 30 SUCCESSFULLY MODIFIED: PowerUp_Machine_Main_Motor.cs
+2025-10-28 22:23:10,516 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:23:11,516 - INFO - ===== FINISHED PROCESSING FILE 30/43 =====
+2025-10-28 22:23:11,517 - INFO - ===== STARTING PROCESSING FILE 31/43: PowerUp_Pressure_Sensor_Recycling.cs =====
+2025-10-28 22:23:11,517 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Pressure_Sensor_Recycling.cs
+2025-10-28 22:23:11,517 - INFO - STEP 1: Reading file PowerUp_Pressure_Sensor_Recycling.cs
+2025-10-28 22:23:11,519 - INFO - STEP 2: File read successfully - 93 lines
+2025-10-28 22:23:11,519 - INFO - STEP 3: Searching for main flow methods in PowerUp_Pressure_Sensor_Recycling.cs
+2025-10-28 22:23:11,520 - INFO - Found main flow method: PowerUp_Pressure_Sensor_RecyclingMainFlow (lines 46-48)
+2025-10-28 22:23:11,520 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:23:11,520 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:23:11,520 - INFO - STEP 5.1: Searching XML summary for method PowerUp_Pressure_Sensor_RecyclingMainFlow
+2025-10-28 22:23:11,522 - INFO - STEP 5.1: XML summary FOUND for PowerUp_Pressure_Sensor_RecyclingMainFlow
+2025-10-28 22:23:11,522 - INFO - STEP 6.1: Requesting Gemini rewrite for method PowerUp_Pressure_Sensor_RecyclingMainFlow (lines 45-49)
+2025-10-28 22:23:11,522 - INFO - STEP 6.1: About to call Gemini API for PowerUp_Pressure_Sensor_RecyclingMainFlow
+2025-10-28 22:23:11,522 - INFO - Requesting Gemini rewrite for PowerUp_Pressure_Sensor_RecyclingMainFlow (attempt 1/3)...
+2025-10-28 22:23:11,522 - INFO - Creating thread for Gemini request - PowerUp_Pressure_Sensor_RecyclingMainFlow
+2025-10-28 22:23:11,523 - INFO - Starting thread for Gemini request - PowerUp_Pressure_Sensor_RecyclingMainFlow
+2025-10-28 22:23:11,523 - INFO - Starting Gemini API call for PowerUp_Pressure_Sensor_RecyclingMainFlow
+2025-10-28 22:23:11,523 - INFO - Waiting for thread completion (60s timeout) - PowerUp_Pressure_Sensor_RecyclingMainFlow
+2025-10-28 22:23:23,877 - INFO - Gemini API call completed for PowerUp_Pressure_Sensor_RecyclingMainFlow
+2025-10-28 22:23:23,878 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:23:23,879 - INFO - STEP 6.1: Gemini API call completed for PowerUp_Pressure_Sensor_RecyclingMainFlow
+2025-10-28 22:23:23,879 - INFO - Replaced method PowerUp_Pressure_Sensor_RecyclingMainFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Pressure_Sensor_Recycling.cs
+2025-10-28 22:23:23,880 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Pressure_Sensor_Recycling.cs: 1 methods replaced
+2025-10-28 22:23:23,881 - INFO - File 31 SUCCESSFULLY MODIFIED: PowerUp_Pressure_Sensor_Recycling.cs
+2025-10-28 22:23:23,881 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:23:24,882 - INFO - ===== FINISHED PROCESSING FILE 31/43 =====
+2025-10-28 22:23:24,882 - INFO - ===== STARTING PROCESSING FILE 32/43: PowerUp_Press_SN_Verification.cs =====
+2025-10-28 22:23:24,882 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Press_SN_Verification.cs
+2025-10-28 22:23:24,882 - INFO - STEP 1: Reading file PowerUp_Press_SN_Verification.cs
+2025-10-28 22:23:24,884 - INFO - STEP 2: File read successfully - 62 lines
+2025-10-28 22:23:24,884 - INFO - STEP 3: Searching for main flow methods in PowerUp_Press_SN_Verification.cs
+2025-10-28 22:23:24,884 - INFO - Found main flow method: PressSNVerificationMainFlow (lines 48-50)
+2025-10-28 22:23:24,884 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:23:24,884 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:23:24,885 - INFO - STEP 5.1: Searching XML summary for method PressSNVerificationMainFlow
+2025-10-28 22:23:24,885 - INFO - STEP 5.1: XML summary FOUND for PressSNVerificationMainFlow
+2025-10-28 22:23:24,885 - INFO - STEP 6.1: Requesting Gemini rewrite for method PressSNVerificationMainFlow (lines 47-51)
+2025-10-28 22:23:24,885 - INFO - STEP 6.1: About to call Gemini API for PressSNVerificationMainFlow
+2025-10-28 22:23:24,886 - INFO - Requesting Gemini rewrite for PressSNVerificationMainFlow (attempt 1/3)...
+2025-10-28 22:23:24,886 - INFO - Creating thread for Gemini request - PressSNVerificationMainFlow
+2025-10-28 22:23:24,886 - INFO - Starting thread for Gemini request - PressSNVerificationMainFlow
+2025-10-28 22:23:24,886 - INFO - Starting Gemini API call for PressSNVerificationMainFlow
+2025-10-28 22:23:24,886 - INFO - Waiting for thread completion (60s timeout) - PressSNVerificationMainFlow
+2025-10-28 22:23:35,533 - INFO - Gemini API call completed for PressSNVerificationMainFlow
+2025-10-28 22:23:35,533 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:23:35,533 - INFO - STEP 6.1: Gemini API call completed for PressSNVerificationMainFlow
+2025-10-28 22:23:35,534 - INFO - Replaced method PressSNVerificationMainFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Press_SN_Verification.cs
+2025-10-28 22:23:35,535 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Press_SN_Verification.cs: 1 methods replaced
+2025-10-28 22:23:35,535 - INFO - File 32 SUCCESSFULLY MODIFIED: PowerUp_Press_SN_Verification.cs
+2025-10-28 22:23:35,535 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:23:36,537 - INFO - ===== FINISHED PROCESSING FILE 32/43 =====
+2025-10-28 22:23:36,537 - INFO - ===== STARTING PROCESSING FILE 33/43: PowerUp_Print_Simulation_Preparation_Test.cs =====
+2025-10-28 22:23:36,537 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Print_Simulation_Preparation_Test.cs
+2025-10-28 22:23:36,538 - INFO - STEP 1: Reading file PowerUp_Print_Simulation_Preparation_Test.cs
+2025-10-28 22:23:36,539 - INFO - STEP 2: File read successfully - 171 lines
+2025-10-28 22:23:36,540 - INFO - STEP 3: Searching for main flow methods in PowerUp_Print_Simulation_Preparation_Test.cs
+2025-10-28 22:23:36,540 - INFO - Found main flow method: PrintSimulationPreperationFullFlow (lines 52-54)
+2025-10-28 22:23:36,541 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:23:36,541 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:23:36,541 - INFO - STEP 5.1: Searching XML summary for method PrintSimulationPreperationFullFlow
+2025-10-28 22:23:36,542 - INFO - STEP 5.1: XML summary FOUND for PrintSimulationPreperationFullFlow
+2025-10-28 22:23:36,542 - INFO - STEP 6.1: Requesting Gemini rewrite for method PrintSimulationPreperationFullFlow (lines 51-55)
+2025-10-28 22:23:36,542 - INFO - STEP 6.1: About to call Gemini API for PrintSimulationPreperationFullFlow
+2025-10-28 22:23:36,543 - INFO - Requesting Gemini rewrite for PrintSimulationPreperationFullFlow (attempt 1/3)...
+2025-10-28 22:23:36,543 - INFO - Creating thread for Gemini request - PrintSimulationPreperationFullFlow
+2025-10-28 22:23:36,543 - INFO - Starting thread for Gemini request - PrintSimulationPreperationFullFlow
+2025-10-28 22:23:36,544 - INFO - Starting Gemini API call for PrintSimulationPreperationFullFlow
+2025-10-28 22:23:36,544 - INFO - Waiting for thread completion (60s timeout) - PrintSimulationPreperationFullFlow
+2025-10-28 22:23:43,707 - INFO - Gemini API call completed for PrintSimulationPreperationFullFlow
+2025-10-28 22:23:43,708 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:23:43,708 - INFO - STEP 6.1: Gemini API call completed for PrintSimulationPreperationFullFlow
+2025-10-28 22:23:43,708 - INFO - Replaced method PrintSimulationPreperationFullFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Print_Simulation_Preparation_Test.cs
+2025-10-28 22:23:43,709 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Print_Simulation_Preparation_Test.cs: 1 methods replaced
+2025-10-28 22:23:43,709 - INFO - File 33 SUCCESSFULLY MODIFIED: PowerUp_Print_Simulation_Preparation_Test.cs
+2025-10-28 22:23:43,709 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:23:44,710 - INFO - ===== FINISHED PROCESSING FILE 33/43 =====
+2025-10-28 22:23:44,710 - INFO - ===== STARTING PROCESSING FILE 34/43: PowerUp_Registration_Cameras_Automatic_Test.cs =====
+2025-10-28 22:23:44,711 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Registration_Cameras_Automatic_Test.cs
+2025-10-28 22:23:44,711 - INFO - STEP 1: Reading file PowerUp_Registration_Cameras_Automatic_Test.cs
+2025-10-28 22:23:44,712 - INFO - STEP 2: File read successfully - 81 lines
+2025-10-28 22:23:44,712 - INFO - STEP 3: Searching for main flow methods in PowerUp_Registration_Cameras_Automatic_Test.cs
+2025-10-28 22:23:44,713 - INFO - Found main flow method: CameraRegistrationAutomatictestMainFlow (lines 56-57)
+2025-10-28 22:23:44,713 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:23:44,713 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:23:44,713 - INFO - STEP 5.1: Searching XML summary for method CameraRegistrationAutomatictestMainFlow
+2025-10-28 22:23:44,714 - INFO - STEP 5.1: XML summary FOUND for CameraRegistrationAutomatictestMainFlow
+2025-10-28 22:23:44,714 - INFO - STEP 6.1: Requesting Gemini rewrite for method CameraRegistrationAutomatictestMainFlow (lines 55-58)
+2025-10-28 22:23:44,714 - INFO - STEP 6.1: About to call Gemini API for CameraRegistrationAutomatictestMainFlow
+2025-10-28 22:23:44,714 - INFO - Requesting Gemini rewrite for CameraRegistrationAutomatictestMainFlow (attempt 1/3)...
+2025-10-28 22:23:44,714 - INFO - Creating thread for Gemini request - CameraRegistrationAutomatictestMainFlow
+2025-10-28 22:23:44,714 - INFO - Starting thread for Gemini request - CameraRegistrationAutomatictestMainFlow
+2025-10-28 22:23:44,715 - INFO - Starting Gemini API call for CameraRegistrationAutomatictestMainFlow
+2025-10-28 22:23:44,715 - INFO - Waiting for thread completion (60s timeout) - CameraRegistrationAutomatictestMainFlow
+2025-10-28 22:23:58,634 - INFO - Gemini API call completed for CameraRegistrationAutomatictestMainFlow
+2025-10-28 22:23:58,634 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:23:58,634 - INFO - STEP 6.1: Gemini API call completed for CameraRegistrationAutomatictestMainFlow
+2025-10-28 22:23:58,634 - INFO - Replaced method CameraRegistrationAutomatictestMainFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Registration_Cameras_Automatic_Test.cs
+2025-10-28 22:23:58,635 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Registration_Cameras_Automatic_Test.cs: 1 methods replaced
+2025-10-28 22:23:58,635 - INFO - File 34 SUCCESSFULLY MODIFIED: PowerUp_Registration_Cameras_Automatic_Test.cs
+2025-10-28 22:23:58,636 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:23:59,636 - INFO - ===== FINISHED PROCESSING FILE 34/43 =====
+2025-10-28 22:23:59,636 - INFO - ===== STARTING PROCESSING FILE 35/43: PowerUp_Second_Transfer_Ready_State.cs =====
+2025-10-28 22:23:59,637 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Second_Transfer_Ready_State.cs
+2025-10-28 22:23:59,637 - INFO - STEP 1: Reading file PowerUp_Second_Transfer_Ready_State.cs
+2025-10-28 22:24:00,111 - INFO - STEP 2: File read successfully - 98 lines
+2025-10-28 22:24:00,111 - INFO - STEP 3: Searching for main flow methods in PowerUp_Second_Transfer_Ready_State.cs
+2025-10-28 22:24:00,111 - INFO - STEP 4: Found 0 main flow methods
+2025-10-28 22:24:00,112 - INFO - STEP 5: No main flow methods found in PowerUp_Second_Transfer_Ready_State.cs - SKIPPING
+2025-10-28 22:24:00,112 - INFO - File 35 NOT MODIFIED (no main flow methods): PowerUp_Second_Transfer_Ready_State.cs
+2025-10-28 22:24:00,112 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:24:01,113 - INFO - ===== FINISHED PROCESSING FILE 35/43 =====
+2025-10-28 22:24:01,113 - INFO - ===== STARTING PROCESSING FILE 36/43: PowerUp_SPM_Elements_Activation.cs =====
+2025-10-28 22:24:01,114 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_SPM_Elements_Activation.cs
+2025-10-28 22:24:01,114 - INFO - STEP 1: Reading file PowerUp_SPM_Elements_Activation.cs
+2025-10-28 22:24:01,116 - INFO - STEP 2: File read successfully - 109 lines
+2025-10-28 22:24:01,116 - INFO - STEP 3: Searching for main flow methods in PowerUp_SPM_Elements_Activation.cs
+2025-10-28 22:24:01,117 - INFO - Found main flow method: SPM_Elements_Activation_Main_Flow (lines 46-50)
+2025-10-28 22:24:01,117 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:24:01,117 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:24:01,118 - INFO - STEP 5.1: Searching XML summary for method SPM_Elements_Activation_Main_Flow
+2025-10-28 22:24:01,118 - INFO - STEP 5.1: XML summary FOUND for SPM_Elements_Activation_Main_Flow
+2025-10-28 22:24:01,119 - INFO - STEP 6.1: Requesting Gemini rewrite for method SPM_Elements_Activation_Main_Flow (lines 45-51)
+2025-10-28 22:24:01,119 - INFO - STEP 6.1: About to call Gemini API for SPM_Elements_Activation_Main_Flow
+2025-10-28 22:24:01,119 - INFO - Requesting Gemini rewrite for SPM_Elements_Activation_Main_Flow (attempt 1/3)...
+2025-10-28 22:24:01,119 - INFO - Creating thread for Gemini request - SPM_Elements_Activation_Main_Flow
+2025-10-28 22:24:01,119 - INFO - Starting thread for Gemini request - SPM_Elements_Activation_Main_Flow
+2025-10-28 22:24:01,120 - INFO - Starting Gemini API call for SPM_Elements_Activation_Main_Flow
+2025-10-28 22:24:01,120 - INFO - Waiting for thread completion (60s timeout) - SPM_Elements_Activation_Main_Flow
+2025-10-28 22:24:09,857 - INFO - Gemini API call completed for SPM_Elements_Activation_Main_Flow
+2025-10-28 22:24:09,858 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:24:09,858 - INFO - STEP 6.1: Gemini API call completed for SPM_Elements_Activation_Main_Flow
+2025-10-28 22:24:09,858 - INFO - Replaced method SPM_Elements_Activation_Main_Flow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_SPM_Elements_Activation.cs
+2025-10-28 22:24:09,859 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_SPM_Elements_Activation.cs: 1 methods replaced
+2025-10-28 22:24:09,859 - INFO - File 36 SUCCESSFULLY MODIFIED: PowerUp_SPM_Elements_Activation.cs
+2025-10-28 22:24:09,859 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:24:10,859 - INFO - ===== FINISHED PROCESSING FILE 36/43 =====
+2025-10-28 22:24:10,860 - INFO - ===== STARTING PROCESSING FILE 37/43: PowerUp_SubstrateList.cs =====
+2025-10-28 22:24:10,860 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_SubstrateList.cs
+2025-10-28 22:24:10,860 - INFO - STEP 1: Reading file PowerUp_SubstrateList.cs
+2025-10-28 22:24:10,861 - INFO - STEP 2: File read successfully - 117 lines
+2025-10-28 22:24:10,862 - INFO - STEP 3: Searching for main flow methods in PowerUp_SubstrateList.cs
+2025-10-28 22:24:10,862 - INFO - Found main flow method: SubstrateListMainFlow (lines 53-55)
+2025-10-28 22:24:10,862 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:24:10,862 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:24:10,862 - INFO - STEP 5.1: Searching XML summary for method SubstrateListMainFlow
+2025-10-28 22:24:10,863 - INFO - STEP 5.1: XML summary FOUND for SubstrateListMainFlow
+2025-10-28 22:24:10,863 - INFO - STEP 6.1: Requesting Gemini rewrite for method SubstrateListMainFlow (lines 52-56)
+2025-10-28 22:24:10,863 - INFO - STEP 6.1: About to call Gemini API for SubstrateListMainFlow
+2025-10-28 22:24:10,863 - INFO - Requesting Gemini rewrite for SubstrateListMainFlow (attempt 1/3)...
+2025-10-28 22:24:10,864 - INFO - Creating thread for Gemini request - SubstrateListMainFlow
+2025-10-28 22:24:10,864 - INFO - Starting thread for Gemini request - SubstrateListMainFlow
+2025-10-28 22:24:10,864 - INFO - Starting Gemini API call for SubstrateListMainFlow
+2025-10-28 22:24:10,864 - INFO - Waiting for thread completion (60s timeout) - SubstrateListMainFlow
+2025-10-28 22:24:17,068 - INFO - Gemini API call completed for SubstrateListMainFlow
+2025-10-28 22:24:17,069 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:24:17,069 - INFO - STEP 6.1: Gemini API call completed for SubstrateListMainFlow
+2025-10-28 22:24:17,069 - INFO - Replaced method SubstrateListMainFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_SubstrateList.cs
+2025-10-28 22:24:17,070 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_SubstrateList.cs: 1 methods replaced
+2025-10-28 22:24:17,070 - INFO - File 37 SUCCESSFULLY MODIFIED: PowerUp_SubstrateList.cs
+2025-10-28 22:24:17,070 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:24:18,071 - INFO - ===== FINISHED PROCESSING FILE 37/43 =====
+2025-10-28 22:24:18,071 - INFO - ===== STARTING PROCESSING FILE 38/43: PowerUp_SW_Parameters_Backup.cs =====
+2025-10-28 22:24:18,071 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_SW_Parameters_Backup.cs
+2025-10-28 22:24:18,071 - INFO - STEP 1: Reading file PowerUp_SW_Parameters_Backup.cs
+2025-10-28 22:24:18,073 - INFO - STEP 2: File read successfully - 108 lines
+2025-10-28 22:24:18,073 - INFO - STEP 3: Searching for main flow methods in PowerUp_SW_Parameters_Backup.cs
+2025-10-28 22:24:18,073 - INFO - Found main flow method: WSParametersBackupMainFlow (lines 49-52)
+2025-10-28 22:24:18,074 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:24:18,074 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:24:18,074 - INFO - STEP 5.1: Searching XML summary for method WSParametersBackupMainFlow
+2025-10-28 22:24:18,074 - INFO - STEP 5.1: XML summary FOUND for WSParametersBackupMainFlow
+2025-10-28 22:24:18,074 - INFO - STEP 6.1: Requesting Gemini rewrite for method WSParametersBackupMainFlow (lines 48-53)
+2025-10-28 22:24:18,075 - INFO - STEP 6.1: About to call Gemini API for WSParametersBackupMainFlow
+2025-10-28 22:24:18,075 - INFO - Requesting Gemini rewrite for WSParametersBackupMainFlow (attempt 1/3)...
+2025-10-28 22:24:18,075 - INFO - Creating thread for Gemini request - WSParametersBackupMainFlow
+2025-10-28 22:24:18,075 - INFO - Starting thread for Gemini request - WSParametersBackupMainFlow
+2025-10-28 22:24:18,075 - INFO - Starting Gemini API call for WSParametersBackupMainFlow
+2025-10-28 22:24:18,075 - INFO - Waiting for thread completion (60s timeout) - WSParametersBackupMainFlow
+2025-10-28 22:24:29,511 - INFO - Gemini API call completed for WSParametersBackupMainFlow
+2025-10-28 22:24:29,512 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:24:29,512 - INFO - STEP 6.1: Gemini API call completed for WSParametersBackupMainFlow
+2025-10-28 22:24:29,512 - INFO - Replaced method WSParametersBackupMainFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_SW_Parameters_Backup.cs
+2025-10-28 22:24:29,513 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_SW_Parameters_Backup.cs: 1 methods replaced
+2025-10-28 22:24:29,514 - INFO - File 38 SUCCESSFULLY MODIFIED: PowerUp_SW_Parameters_Backup.cs
+2025-10-28 22:24:29,514 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:24:30,514 - INFO - ===== FINISHED PROCESSING FILE 38/43 =====
+2025-10-28 22:24:30,514 - INFO - ===== STARTING PROCESSING FILE 39/43: PowerUp_UC_Cooling_Elements.cs =====
+2025-10-28 22:24:30,515 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_UC_Cooling_Elements.cs
+2025-10-28 22:24:30,515 - INFO - STEP 1: Reading file PowerUp_UC_Cooling_Elements.cs
+2025-10-28 22:24:30,516 - INFO - STEP 2: File read successfully - 159 lines
+2025-10-28 22:24:30,516 - INFO - STEP 3: Searching for main flow methods in PowerUp_UC_Cooling_Elements.cs
+2025-10-28 22:24:30,517 - INFO - STEP 4: Found 0 main flow methods
+2025-10-28 22:24:30,517 - INFO - STEP 5: No main flow methods found in PowerUp_UC_Cooling_Elements.cs - SKIPPING
+2025-10-28 22:24:30,517 - INFO - File 39 NOT MODIFIED (no main flow methods): PowerUp_UC_Cooling_Elements.cs
+2025-10-28 22:24:30,517 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:24:31,518 - INFO - ===== FINISHED PROCESSING FILE 39/43 =====
+2025-10-28 22:24:31,518 - INFO - ===== STARTING PROCESSING FILE 40/43: PowerUp_Water_System_Test.cs =====
+2025-10-28 22:24:31,518 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Water_System_Test.cs
+2025-10-28 22:24:31,519 - INFO - STEP 1: Reading file PowerUp_Water_System_Test.cs
+2025-10-28 22:24:31,520 - INFO - STEP 2: File read successfully - 84 lines
+2025-10-28 22:24:31,520 - INFO - STEP 3: Searching for main flow methods in PowerUp_Water_System_Test.cs
+2025-10-28 22:24:31,520 - INFO - Found main flow method: WaterSystemMainFlow (lines 47-49)
+2025-10-28 22:24:31,520 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:24:31,521 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:24:31,521 - INFO - STEP 5.1: Searching XML summary for method WaterSystemMainFlow
+2025-10-28 22:24:31,522 - INFO - STEP 5.1: XML summary FOUND for WaterSystemMainFlow
+2025-10-28 22:24:31,522 - INFO - STEP 6.1: Requesting Gemini rewrite for method WaterSystemMainFlow (lines 46-50)
+2025-10-28 22:24:31,522 - INFO - STEP 6.1: About to call Gemini API for WaterSystemMainFlow
+2025-10-28 22:24:31,522 - INFO - Requesting Gemini rewrite for WaterSystemMainFlow (attempt 1/3)...
+2025-10-28 22:24:31,522 - INFO - Creating thread for Gemini request - WaterSystemMainFlow
+2025-10-28 22:24:31,523 - INFO - Starting thread for Gemini request - WaterSystemMainFlow
+2025-10-28 22:24:31,523 - INFO - Starting Gemini API call for WaterSystemMainFlow
+2025-10-28 22:24:31,523 - INFO - Waiting for thread completion (60s timeout) - WaterSystemMainFlow
+2025-10-28 22:24:37,691 - INFO - Gemini API call completed for WaterSystemMainFlow
+2025-10-28 22:24:37,692 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:24:37,692 - INFO - STEP 6.1: Gemini API call completed for WaterSystemMainFlow
+2025-10-28 22:24:37,693 - INFO - Replaced method WaterSystemMainFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Water_System_Test.cs
+2025-10-28 22:24:37,694 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Water_System_Test.cs: 1 methods replaced
+2025-10-28 22:24:37,694 - INFO - File 40 SUCCESSFULLY MODIFIED: PowerUp_Water_System_Test.cs
+2025-10-28 22:24:37,694 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:24:38,695 - INFO - ===== FINISHED PROCESSING FILE 40/43 =====
+2025-10-28 22:24:38,695 - INFO - ===== STARTING PROCESSING FILE 41/43: PowerUp_WH_Parameters_Disc_Installation.cs =====
+2025-10-28 22:24:38,695 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_WH_Parameters_Disc_Installation.cs
+2025-10-28 22:24:38,695 - INFO - STEP 1: Reading file PowerUp_WH_Parameters_Disc_Installation.cs
+2025-10-28 22:24:38,697 - INFO - STEP 2: File read successfully - 41 lines
+2025-10-28 22:24:38,697 - INFO - STEP 3: Searching for main flow methods in PowerUp_WH_Parameters_Disc_Installation.cs
+2025-10-28 22:24:38,697 - INFO - Found main flow method: WHDiscParametersMainFlow (lines 29-35)
+2025-10-28 22:24:38,697 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:24:38,697 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:24:38,697 - INFO - STEP 5.1: Searching XML summary for method WHDiscParametersMainFlow
+2025-10-28 22:24:38,698 - INFO - STEP 5.1: XML summary FOUND for WHDiscParametersMainFlow
+2025-10-28 22:24:38,698 - INFO - STEP 6.1: Requesting Gemini rewrite for method WHDiscParametersMainFlow (lines 28-36)
+2025-10-28 22:24:38,698 - INFO - STEP 6.1: About to call Gemini API for WHDiscParametersMainFlow
+2025-10-28 22:24:38,698 - INFO - Requesting Gemini rewrite for WHDiscParametersMainFlow (attempt 1/3)...
+2025-10-28 22:24:38,699 - INFO - Creating thread for Gemini request - WHDiscParametersMainFlow
+2025-10-28 22:24:38,699 - INFO - Starting thread for Gemini request - WHDiscParametersMainFlow
+2025-10-28 22:24:38,699 - INFO - Starting Gemini API call for WHDiscParametersMainFlow
+2025-10-28 22:24:38,699 - INFO - Waiting for thread completion (60s timeout) - WHDiscParametersMainFlow
+2025-10-28 22:24:53,806 - INFO - Gemini API call completed for WHDiscParametersMainFlow
+2025-10-28 22:24:53,807 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:24:53,807 - INFO - STEP 6.1: Gemini API call completed for WHDiscParametersMainFlow
+2025-10-28 22:24:53,807 - INFO - Replaced method WHDiscParametersMainFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_WH_Parameters_Disc_Installation.cs
+2025-10-28 22:24:53,808 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_WH_Parameters_Disc_Installation.cs: 1 methods replaced
+2025-10-28 22:24:53,808 - INFO - File 41 SUCCESSFULLY MODIFIED: PowerUp_WH_Parameters_Disc_Installation.cs
+2025-10-28 22:24:53,809 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:24:54,809 - INFO - ===== FINISHED PROCESSING FILE 41/43 =====
+2025-10-28 22:24:54,810 - INFO - ===== STARTING PROCESSING FILE 42/43: PowerUp_WH_Restore_Focus.cs =====
+2025-10-28 22:24:54,810 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_WH_Restore_Focus.cs
+2025-10-28 22:24:54,810 - INFO - STEP 1: Reading file PowerUp_WH_Restore_Focus.cs
+2025-10-28 22:24:54,811 - INFO - STEP 2: File read successfully - 141 lines
+2025-10-28 22:24:54,811 - INFO - STEP 3: Searching for main flow methods in PowerUp_WH_Restore_Focus.cs
+2025-10-28 22:24:54,812 - INFO - STEP 4: Found 0 main flow methods
+2025-10-28 22:24:54,812 - INFO - STEP 5: No main flow methods found in PowerUp_WH_Restore_Focus.cs - SKIPPING
+2025-10-28 22:24:54,812 - INFO - File 42 NOT MODIFIED (no main flow methods): PowerUp_WH_Restore_Focus.cs
+2025-10-28 22:24:54,812 - INFO - Sleeping 1 second before next file...
+2025-10-28 22:24:55,813 - INFO - ===== FINISHED PROCESSING FILE 42/43 =====
+2025-10-28 22:24:55,813 - INFO - ===== STARTING PROCESSING FILE 43/43: PressStartupAndLogger.cs =====
+2025-10-28 22:24:55,814 - INFO - Full file path: C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PressStartupAndLogger.cs
+2025-10-28 22:24:55,814 - INFO - STEP 1: Reading file PressStartupAndLogger.cs
+2025-10-28 22:24:55,815 - INFO - STEP 2: File read successfully - 79 lines
+2025-10-28 22:24:55,815 - INFO - STEP 3: Searching for main flow methods in PressStartupAndLogger.cs
+2025-10-28 22:24:55,815 - INFO - Found main flow method: PressStartupAndLoggerMainFlow (lines 45-64)
+2025-10-28 22:24:55,815 - INFO - STEP 4: Found 1 main flow methods
+2025-10-28 22:24:55,815 - INFO - STEP 5: Replace flow mode enabled - processing 1 methods
+2025-10-28 22:24:55,816 - INFO - STEP 5.1: Searching XML summary for method PressStartupAndLoggerMainFlow
+2025-10-28 22:24:55,816 - INFO - STEP 5.1: XML summary FOUND for PressStartupAndLoggerMainFlow
+2025-10-28 22:24:55,817 - INFO - STEP 6.1: Requesting Gemini rewrite for method PressStartupAndLoggerMainFlow (lines 44-65)
+2025-10-28 22:24:55,817 - INFO - STEP 6.1: About to call Gemini API for PressStartupAndLoggerMainFlow
+2025-10-28 22:24:55,817 - INFO - Requesting Gemini rewrite for PressStartupAndLoggerMainFlow (attempt 1/3)...
+2025-10-28 22:24:55,817 - INFO - Creating thread for Gemini request - PressStartupAndLoggerMainFlow
+2025-10-28 22:24:55,818 - INFO - Starting thread for Gemini request - PressStartupAndLoggerMainFlow
+2025-10-28 22:24:55,818 - INFO - Starting Gemini API call for PressStartupAndLoggerMainFlow
+2025-10-28 22:24:55,818 - INFO - Waiting for thread completion (60s timeout) - PressStartupAndLoggerMainFlow
+2025-10-28 22:25:14,397 - INFO - Gemini API call completed for PressStartupAndLoggerMainFlow
+2025-10-28 22:25:14,398 - INFO - Gemini rewrite successful on attempt 1
+2025-10-28 22:25:14,398 - INFO - STEP 6.1: Gemini API call completed for PressStartupAndLoggerMainFlow
+2025-10-28 22:25:14,398 - INFO - Replaced method PressStartupAndLoggerMainFlow in C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PressStartupAndLogger.cs
+2025-10-28 22:25:14,399 - INFO - Modified C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PressStartupAndLogger.cs: 1 methods replaced
+2025-10-28 22:25:14,400 - INFO - File 43 SUCCESSFULLY MODIFIED: PressStartupAndLogger.cs
+2025-10-28 22:25:14,400 - INFO - ===== ALL FILES PROCESSING COMPLETED =====
+2025-10-28 22:25:14,400 - INFO - Processing complete: 40 files modified
+2025-10-28 22:25:14,400 - INFO - Modified files:
+2025-10-28 22:25:14,400 - INFO -   - C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\AOP_PerformanceMonitoring.cs
+2025-10-28 22:25:14,400 - INFO -   - C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp SPM Wizard.cs
+2025-10-28 22:25:14,400 - INFO -   - C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Air_Drain_Test.cs
+2025-10-28 22:25:14,401 - INFO -   - C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Auto_Bias_Ready_State.cs
+2025-10-28 22:25:14,401 - INFO -   - C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Bid_System_Automatic_Test_from_EATP.cs
+2025-10-28 22:25:14,401 - INFO -   - C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Blowers_Element_Activation.cs
+2025-10-28 22:25:14,401 - INFO -   - C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Bypasses_Before_Ready_State_Test.cs
+2025-10-28 22:25:14,401 - INFO -   - C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Charge_Roller_Element_Activation.cs
+2025-10-28 22:25:14,401 - INFO -   - C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Cleaner_Page_and_3D_Option_Definition.cs
+2025-10-28 22:25:14,401 - INFO -   - C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Cleaning_Station_Automatic_Test.cs
+2025-10-28 22:25:14,401 - INFO -   - C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Cleaning_Station_Wizard.cs
+2025-10-28 22:25:14,401 - INFO -   - C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Duplex_Automatic_Test.cs
+2025-10-28 22:25:14,402 - INFO -   - C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Duplex_Element_Activation.cs
+2025-10-28 22:25:14,402 - INFO -   - C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_EncoderCalibration.cs
+2025-10-28 22:25:14,402 - INFO -   - C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_EVR_Automatic_Test.cs
+2025-10-28 22:25:14,402 - INFO -   - C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_EVR_Elements_Activation.cs
+2025-10-28 22:25:14,402 - INFO -   - C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Exit_Unit_Elements_Activation.cs
+2025-10-28 22:25:14,402 - INFO -   - C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Get_Ready_Bypass_Removal.cs
+2025-10-28 22:25:14,402 - INFO -   - C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Get_Ready_Process.cs
+2025-10-28 22:25:14,402 - INFO -   - C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Heating_Lamps_Internal _And_External_Automatic_Test.cs
+2025-10-28 22:25:14,403 - INFO -   - C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Heating_Lamp_Automatic_Test.cs
+2025-10-28 22:25:14,403 - INFO -   - C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_IFR_Substrate_Sensor_Element_Activation.cs
+2025-10-28 22:25:14,403 - INFO -   - C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Impression_Engage_Automatic_Test.cs
+2025-10-28 22:25:14,403 - INFO -   - C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Impression_Engage_Element_Activation.cs
+2025-10-28 22:25:14,403 - INFO -   - C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_IMP_Drum_Heating_Element_Activation.cs
+2025-10-28 22:25:14,403 - INFO -   - C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Ink_Flow_Calibration_Elements_Activation.cs
+2025-10-28 22:25:14,403 - INFO -   - C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_ITC_Automatic_Test.cs
+2025-10-28 22:25:14,404 - INFO -   - C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_ITC_Element_Activation.cs
+2025-10-28 22:25:14,404 - INFO -   - C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_JOS_Automatic_Test.cs
+2025-10-28 22:25:14,404 - INFO -   - C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Machine_Main_Motor.cs
+2025-10-28 22:25:14,404 - INFO -   - C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Pressure_Sensor_Recycling.cs
+2025-10-28 22:25:14,404 - INFO -   - C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Press_SN_Verification.cs
+2025-10-28 22:25:14,404 - INFO -   - C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Print_Simulation_Preparation_Test.cs
+2025-10-28 22:25:14,405 - INFO -   - C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Registration_Cameras_Automatic_Test.cs
+2025-10-28 22:25:14,405 - INFO -   - C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_SPM_Elements_Activation.cs
+2025-10-28 22:25:14,405 - INFO -   - C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_SubstrateList.cs
+2025-10-28 22:25:14,405 - INFO -   - C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_SW_Parameters_Backup.cs
+2025-10-28 22:25:14,405 - INFO -   - C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_Water_System_Test.cs
+2025-10-28 22:25:14,406 - INFO -   - C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PowerUp_WH_Parameters_Disc_Installation.cs
+2025-10-28 22:25:14,406 - INFO -   - C:\Users\ritikdave\Documents\ReportGeneratorPythonScript\S4General\S4General\Tests\AOP\PressStartupAndLogger.cs
+2025-10-28 22:25:14,406 - INFO - Script completed successfully

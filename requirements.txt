@@ -1,0 +1,2 @@
+google-generativeai
+packaging>=0.7.0
